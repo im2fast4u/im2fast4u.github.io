@@ -1,0 +1,4 @@
+---
+permalink: /math/
+title: "Math"
+---
