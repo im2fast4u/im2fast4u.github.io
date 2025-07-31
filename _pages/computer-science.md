@@ -1,4 +1,4 @@
 ---
-title: "Computer-Science"
+title: "Computer Science"
 permalink: /computer-science/
 ---
