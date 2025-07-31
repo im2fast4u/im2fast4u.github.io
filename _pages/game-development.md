@@ -1,5 +1,4 @@
 ---
 title: "Game Development"
-permalink: /gamedevelopment/
-author_profile: true
+permalink: /game-development/
 ---
