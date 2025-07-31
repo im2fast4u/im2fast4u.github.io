@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Physics"
+    url: /physics/
+  - title: "Math"
+    url: /math/
+  - title: "Game Development"
+    url: /gamedevelopment/
+  - title: "Computer Science"
+    url: /computerscience/
