@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Prem Mehta"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Python Programmer Interested In Quantum Physics And Math"
+  bio    : "Python Programmer Interested In Quantum Mechanics And Math"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
