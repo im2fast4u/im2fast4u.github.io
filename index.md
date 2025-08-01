@@ -8,7 +8,6 @@ author_profile: true
 
 I am 10 years old and I have a passion for game development and physics. I study string theory and read Feynman books. I plan to be a quantum physicist when I am older, and get a PhD in physics.
 
-My studies in math and physics are very fun and exciting. I learn to make games in python. I also have an interest in building algorithms
-and solving hard puzzles.
+My studies in math and physics are very fun and exciting. I learn to make games in python. I also have an interest in data structures and algorithms, as well as solving puzzles.
 
 Every day I am learning more and building up my brain. I like to be challenged, but I am never challenged enough. I always like to stay curious and explore the world on my own.
