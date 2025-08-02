@@ -16,6 +16,7 @@ I have made several [games](https://www.premmehta.com/game-development/) in Pyth
 - Adding Collision
 - Animating Sprites
 - Adding Sound Effects
+
 Making games started out hard, but the more I progressed, the more comfortable I got. Soon enough I could make games without a tutorial.
 
 [Computer science](https://www.premmehta.com/computer-science/) is the study of algorithms and coding. There are many algorithms that can help you with different ways. Breadth-First Search can help you with finding the shortest path. Dijkstra's Algorithm can help you with finding the path with the least weight. I like to code algorithms in Python, but you can code algorithms in any language!
