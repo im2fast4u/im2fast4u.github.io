@@ -1,7 +1,5 @@
 ---
 title: "Post: Binary Search"
-categories: Blog
-tags: Post Formats
 date: 2025-08-05
 ---
 
