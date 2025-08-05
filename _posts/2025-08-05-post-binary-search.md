@@ -14,7 +14,7 @@ This algorithm can be used when you are trying to find anything in a list. Suppo
 So now I hope you know what binary search is if you didn't know. You also know how to use binary search in real life situations. I will leave the finished code for binary search in Python at the bottom of this blog post. I hope you enjoyed learning what binary search is, and thank you for reading!
 
 ```python
-def binary_seach(list, item):
+def binary_search(list, item):
   low = 0
   high = len(list)-1
 
