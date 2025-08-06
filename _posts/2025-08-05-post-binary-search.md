@@ -11,7 +11,7 @@ So, let's say you guess 50 and I say it's too low. That isn't bad even though yo
 
 This algorithm can be used when you are trying to find anything in a list. Suppose you have a dictionary, and you try to find the letter I. You can use binary search for this problem. Go to half the book. The letter you find is M, which is too high. So, then you flip through half the book from A to M, and so on.
 
-So now I hope you know what binary search is if you didn't know. You also know how to use binary search in real life situations. I will leave the finished code for binary search in Python at the bottom of this blog post. I hope you enjoyed learning what binary search is, and thank you for reading!
+So now I hope you know what binary search is if you didn't know. You also know how to use binary search in real life situations and how it is faster than simple search. I will leave the finished code for binary search in Python at the bottom of this blog post. I hope you enjoyed learning what binary search is, and thank you for reading!
 
 ```python
 def binary_search(list, item):
@@ -29,3 +29,4 @@ def binary_search(list, item):
       low = mid + 1
   return None
 ```
+*The Binary Search Function Above Leaves The Index Of The Item In The List And Returns `None` If The Item Is Not In The List*
