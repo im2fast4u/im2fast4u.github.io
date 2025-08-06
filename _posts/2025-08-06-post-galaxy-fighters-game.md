@@ -1,11 +1,11 @@
 ---
-title: "Post: Galaxy Fighters Game"
+title: "Post: Galaxy-Fighters Game"
 date: 2025-08-05
 ---
 
 This blog post is here to show you one of the awesome games I have developed in Python. This game is available on GitHub. You will see what is in it, how the controls work, etc. I will also show you how to run the game so you can play it too. But now let's dive into it!
 
-The game is called [Galaxy-Fighters](https://github.com/im2fast4u/Galaxy-Fighters). It is a 2-player game. Each player has a ship, and you can shoot bullets from that ship. You also have 10 lives, and if you get hit by a bullet you lose a life. Your goal is to defeat the opposing player by firing bullets, while dodging the opposing player's bullets.
+This game is called [Galaxy-Fighters](https://github.com/im2fast4u/Galaxy-Fighters). It is a 2-player game. Each player has a ship, and you can shoot bullets from that ship. You also have 10 lives, and if you get hit by a bullet you lose a life. Your goal is to defeat the opposing player by firing bullets, while dodging the opposing player's bullets.
 
 If you are on the left side (yellow ship) you will move with WASD and shoot with the left control key. If you are on the right side (red ship) you will move with arrow keys and shoot with the right control key. There is a border down the screen, so each player has an individual space. There is also a space background and there are sound effects for shooting bullets.
 
