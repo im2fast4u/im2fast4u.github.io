@@ -3,7 +3,7 @@ title: "Game Development"
 permalink: /game-development/
 ---
 
-[Blog Post: Galaxy Fighters Game](https://www.premmehta.com/post-galaxy-fighters-game/)\
+[Blog Post: Galaxy-Fighters Game](https://www.premmehta.com/post-galaxy-fighters-game/)\
 A two-player game where each player shoots the other player by firing bullets from their ship
 
 
