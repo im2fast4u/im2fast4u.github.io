@@ -1,6 +1,6 @@
 ---
 title: "Post: Galaxy-Fighters Game"
-date: 2025-08-05
+date: 2025-08-06
 ---
 
 This blog post is here to show you one of the awesome games I have developed in Python. This game is available on GitHub. You will see what is in it, how the controls work, etc. I will also show you how to run the game so you can play it too. But now let's dive into it!
