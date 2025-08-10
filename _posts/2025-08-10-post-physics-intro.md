@@ -10,3 +10,9 @@ To me, physics is like asking "What is the world made of, and how does it work?"
 
 ### What Surprised Me
 The thing that surprised me was quantum physics. "The idea that particles - like electrons - can be in more than one place at the same time?" Or "We can't even know exactly where they are and how fast they are going at the same time?" Physics, or quantum physics, is very strange.
+
+### A Fun Thought Experiment
+Sometimes I imagine what it would feel like to shrink down to the size of an atom. There's no gravity pulling me down. There's no "up" or "down" - just a floating space where particles blink in and out, and I can't tell if they're here or there. It's not like walking in a room...it's like being everywhere at once.
+
+## Conclusion
+I have big wonders for physics. There are many possibilities when it comes to nature. I hope you enjoyed reading this blog post. If you did, read my other posts! Thank you for reading!
