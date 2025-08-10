@@ -3,7 +3,7 @@ title: "Post: Space-Dodge Game"
 date: 2025-08-07
 ---
 
-This blog post is here to show you one of the awesome games I have made in Python. You can see the code for this game on my [GitHub](https://github.com/im2fast4u/). You will see what is in it, how the controls work, etc. I will also show you how to run the game so you can play it too. But now let's dive into it!
+This blog post is here to show you one of the awesome games I have developed in Python. You can see the code for this game on my [GitHub](https://github.com/im2fast4u/). You will see what is in it, how the controls work, etc. I will also show you how to run the game so you can play it too. But now let's dive into it!
 
 This game is called [Space-Dodge](https://github.com/im2fast4u/Space-Dodge/). There are small white rectangles falling down the screen. You are a red rectangle in space and you can move left and right with arrow keys. You are supposed to dodge the white rectangles as they fall down toward you. The longer you survive, the harder it gets (more particles fall down).
 
