@@ -5,7 +5,7 @@ date: 2025-08-14
 
 ## What Is Algebra About?
 
-## Solving For $x$
+## Solving For X
 
 ## A Simple Function
 
