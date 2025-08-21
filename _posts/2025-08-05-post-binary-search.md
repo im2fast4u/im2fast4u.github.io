@@ -15,18 +15,18 @@ So now I hope you know what binary search is if you didn't know. You also know h
 
 ```python
 def binary_search(list, item):
-  low = 0
-  high = len(list)-1
+    low = 0
+    high = len(list)-1
 
-  while low <= high:
-    mid = (low + high) // 2
-    guess = list[mid]
-    if guess == item:
-      return mid
-    if guess > item:
-      high = mid - 1
-    else:
-      low = mid + 1
-  return None
+    while low <= high:
+        mid = (low + high) // 2
+        guess = list[mid]
+        if guess == item:
+            return mid
+        if guess > item:
+            high = mid - 1
+        else:
+          low = mid + 1
+      return None
 ```
 *The Binary Search Function Above Leaves The Index Of The Item In The List And Returns* `None` *If The Item Is Not In The List*
