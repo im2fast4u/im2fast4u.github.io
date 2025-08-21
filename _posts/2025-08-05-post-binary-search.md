@@ -27,6 +27,6 @@ def binary_search(list, item):
             high = mid - 1
         else:
           low = mid + 1
-      return None
+    return None
 ```
 *The Binary Search Function Above Leaves The Index Of The Item In The List And Returns* `None` *If The Item Is Not In The List*
