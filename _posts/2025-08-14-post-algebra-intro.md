@@ -9,6 +9,7 @@ Algebra can sometimes be hard. But you're in luck because I am going to tell you
 Algebra is a not-very-easy subject for math that helps us develop and create new inventions. In algebra, letters, also known as variables, are replaced with numbers in a mathematical sentence. That is because we don't know what that number is. It is an unknown number. You are supposed to solve for those variables by figuring out what number is being replaced by them. That is what the next section is about.
 
 ## Solving For X
+If you are solving for a variable, the variable is most likely going to be x. X is the most common variable when it comes to algebra. Suppose we have the linear equation 4x - 5 = 19 (linear equations are in the form of y = mx + b. This is explained in more detail in the next section). We need to make the equation become x = value of x. We can do that by multiply/divide and add/subtract numbers on both sides of the equation. If we add 5 to both sides of the equation we get the new equation 4x = 24. Now, all we need to do is divide both sides by 4, and we get x = 6. We found the value of the variable!
 
 ## A Simple Function
 
