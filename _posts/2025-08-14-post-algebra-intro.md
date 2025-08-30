@@ -19,5 +19,6 @@ Linear algebra studies vectors, and matrices. It is an advanced subject part of 
 
 ## Conclusion
 
+## Links & Footnotes
 [^1]: The number of units the graph rises (or falls) every time you move a number of units to the right
 [^2]: The point where the line intersects the y-axis
