@@ -18,7 +18,8 @@ In the last section I told you about linear equations. They come in the form y =
 Linear algebra studies vectors, and matrices. It is an advanced subject part of algebra. I am going to tell you what vectors are about in this part of the blog post. So, vectors are made up of two parts. The direction, and the magnitude. The direction represents the way the arrow is pointing on a graph, or where they are moving. The magnitude is the length of the vector. For example, velocity can be a vector. I am not going to go too deep into this, but let's say the velocity at which I am running at is 5 mph east. The direction is east, and the magnitude (or length) is 5 mph.
 
 ## Conclusion
+Now you know what algebra is about and you even know some algebra if you didn't know.
 
-## Links & Footnotes
+## Footnotes
 [^1]: The number of units the graph rises (or falls) every time you move a number of units to the right
 [^2]: The point where the line intersects the y-axis
