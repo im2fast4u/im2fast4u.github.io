@@ -23,4 +23,5 @@ Now you know what algebra is about and you even know some algebra if you didn't 
 ## Footnotes
 [^1]: The number of units the graph rises (or falls) every time you move a number of units to the right
 [^2]: The point where the line intersects the y-axis
+
 Slope and y-intercept are not covered in this post.
