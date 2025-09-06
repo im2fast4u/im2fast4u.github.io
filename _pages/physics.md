@@ -7,4 +7,4 @@ title: "Physics"
 
 [Blog Post: String Theory](https://www.premmehta.com/post-string-theory/)
 
-[Blog Post: Quantum Feild Theory](https://www.premmehta.com/post-quantum-feild-theory/)
+[Blog Post: Quantum Field Theory](https://www.premmehta.com/post-quantum-field-theory/)
