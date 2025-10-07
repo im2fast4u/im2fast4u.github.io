@@ -8,4 +8,6 @@ String theory (or the theory of strings) started long before in the 20th century
 ## What are strings?
 Strings are an amazing field of study, and that's what I am going to talk about. Have you wondered what's smaller than a particle? In string theory, strings are the smallest thing in the universe. These tiny, vibrating, one-dimensional strings are what everything is made up of.
 
+## The beginnig of string theory
+
 *To be continued...*
