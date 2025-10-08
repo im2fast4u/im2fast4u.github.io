@@ -1,6 +1,6 @@
 ---
 title: "Post: Physics - The Magic Show I Didn’t Know Was Real"
-date: 2025-09-23
+date: 2025-08-23
 ---
 
 Most people think magic is fake. But when I started reading the book *Six Easy Pieces*, I realized that physics is like magic - except it's true. The things I learned in just two chapters already feel like they belong in a science fiction movie.
