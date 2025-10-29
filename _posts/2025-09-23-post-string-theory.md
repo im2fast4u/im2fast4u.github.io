@@ -11,4 +11,7 @@ Strings are an amazing field of study, and that's what I am going to talk about.
 ## The beginning of string theory
 Physicist Gabriele Veneziano started string theory in 1968 when he discovered a mathematical formula that described the strong nuclear force.
 
+## The Problem
+The problem is that there needs to be 26 dimenstions for string theory to be consistent. It predicted that there is a particle faster than light called a tachyon.
+
 *To be continued...*
