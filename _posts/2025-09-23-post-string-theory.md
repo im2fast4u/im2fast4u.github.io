@@ -9,7 +9,7 @@ String theory (or the theory of strings) started long before in the 20th century
 Strings are an amazing field of study, and that's what I am going to talk about. Have you wondered what's smaller than a particle? In string theory, strings are the smallest thing in the universe. These tiny, vibrating, one-dimensional strings are what everything is made up of.
 
 ## The beginning of string theory
-Physicist Gabriele Veneziano started string theory in 1968 when he discovered a mathematical formula that described the strong nuclear force. People thought his theory would help unify the fundamental forces of nature.
+Physicist Gabriele Veneziano started string theory in 1968 when he discovered a mathematical formula that described the strong nuclear force. People thought his theory would help unify the fundamental forces of nature. Years later, scientists discovered supersymmetry, which included new particles. This got us the name "superstring theory".
 
 ## The Problem
 The problem is that there needs to be 26 dimenstions for string theory to be consistent. It predicted that there is a particle faster than light called a tachyon.
