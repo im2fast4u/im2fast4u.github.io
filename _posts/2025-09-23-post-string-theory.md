@@ -14,6 +14,6 @@ Physicist Gabriele Veneziano started string theory in 1968 when he discovered a 
 ## The Problem
 The problem is that there needs to be 26 dimensions for string theory to be consistent. We, humans move in three dimensions: up/down, left/right, and forward/backward, while strings move in multiple dimensions. It also predicted that there is a particle faster than light called a tachyon.
 
-For string theory to be *internally consistent*, there has to be additional spacial dimentions. We, humans move in three dimensions: up/down, left/right, and forward/backward, while strings move in multiple dimensions. Depending on the version of string theory, there could be a different number of dimensions. For example, superstring theory requires 10 dimensions, while bosonic string theory requires 26 dimensions.
+For string theory to be *internally consistent*, there has to be additional spacial dimentions. We, humans move in three dimensions: up/down, left/right, and forward/backward, while strings move in multiple dimensions. Depending on the version of string theory, there could be a different number of dimensions. For example, superstring theory requires 10 dimensions, while bosonic string theory requires 26 dimensions. These dimensions are compactfied, which means they are curled up and we can't them.
 
 *To be continued...*
