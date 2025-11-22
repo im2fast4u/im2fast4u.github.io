@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-I am 10 years old, and I have a passion for game development and physics. I study string theory and I like to read Richard Feynman books. I want to get a PhD in physics and want to be a quantum physicist when I grow up.  I also like to write code in Python. I have an interest in data structures and algorithms, as well as solving puzzles.
+I am 10 years old, and I have a passion for game development and physics. I study string theory and I like to read Richard Feynman. I want to get a PhD in physics and want to be a quantum physicist when I grow up.  I also like to write code in Python. I have an interest in data structures and algorithms, as well as solving puzzles.
 
 In [physics](https://www.premmehta.com/physics/), I study quantum mechanics and learn string theory. Physics is all about nature. There are many formulas such as the formula for finding density or the distance formula. Physics is fun and exciting when you have so many choices!
 
