@@ -10,7 +10,7 @@ title: "Physics"
 
 [Blog Post: How Physics Opened My Eyes to the Invisible World](https://www.premmehta.com/post-physics-intro-3/)
 
-## *Conservation Of Energy*
+## *Part 2: Conservation Of Energy*
 [Blog Post: What Is Energy?](https://www.premmehta.com/post-intro-to-energy/)
 
 ## *Part 3: Theories of Physics*
