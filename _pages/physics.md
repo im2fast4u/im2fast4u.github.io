@@ -13,5 +13,7 @@ title: "Physics"
 ## *Part 2: Conservation Of Energy*
 [Blog Post: What Is Energy?](https://www.premmehta.com/post-intro-to-energy/)
 
+[Blog Post: Gravitational Potential Energy](https://www.premmehta.com/post-gravitational-potential-energy/)
+
 ## *Part 3: Theories of Physics*
 [Blog Post: String Theory](https://www.premmehta.com/post-string-theory/)
