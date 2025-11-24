@@ -11,4 +11,4 @@ Gravitational potential energy can be calculated by weight times height - but th
 ## 0 Energy Example
 So, let's say there is a wood log carrying 2 pounds on the left, and *W* pounds on the right. Suppose that the weight on the left goes 2 inches lower, and the weight on the right went 1 inch higher. There is also a 1 pound weight in the middle that goes up 2 inches. We want to find out how much weight the log would have to carry on the right to balance the wood log, disregarding the weight of the log. We can figure this out using gravitational potential energy: the sum of the weights times the height. This would give us the equation: (-2)(2) + (1)(*W*) + (2)(1) = 0, which would give us the solution *W* = 2 pounds.
 
-*The gravitational potential energy is 0 when the object is still and doesn't move*
+*As in the equation, the gravitational potential energy is 0 when the object is still and doesn't move*
