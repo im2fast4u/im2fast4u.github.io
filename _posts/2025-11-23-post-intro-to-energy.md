@@ -8,13 +8,13 @@ In this blog post, we will dive deep into energy and how it is used in real life
 ## The Key Details
 Energy is the capacity to make things move or act. There is a phenomena, or law in physics called the conservation of energy. Accoring to this law, energy cannot be created or destroyed. However, it can change forms. For example, potential energy can be converted to kinetic energy.
 
-## How I Would Explain It In Simple Words
+## How I Would Explain It in Simple Words
 Imagine you have 12 indestructable building blocks. There will always be 12; you can't destroy these blocks or create more. Now, one day you count them and find out that there are 10 blocks. It is impossible for the blocks to be destroyed, so you know that the missing blocks are somewhere. You look around, and you realized that 2 fell down the shelf. The next day, you count 15 blocks. Then, you find out that yesterday, someone came over and left their building blocks at your house. Now, imagine these building blocks are energy. They can't be destroyed, and you can't create more.
 
 ## What Surprised Me
 What surprised me is that energy can't be created or destroyed. I never knew that until I read *Six Easy Pieces*. It helped me understand what energy really is.
 
-## Where I See This In Real Life
+## Where I See This in Real Life
 A real life example of energy is when you run around, or when you jump up or down. Your energy is making you do that by force. Albert Einstein defined energy as mass times the speed of light squared. This means that the more mass you have in your body, the more energy you have. There are many different forms of energy such as heat energy, kinetic energy, chemical energy, electrical energy, etc.
 
 ## Conclusion
