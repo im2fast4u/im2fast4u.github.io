@@ -5,6 +5,9 @@ date: 2025-11-24
 
 In the last blog post we talked about what energy is, and now we will go into a form of energy called gravitational potential energy. We will also go through some real life examples on where you can use this form of energy.
 
+## What Is Gravitational Potential Energy?
+Gravitational potential energy is the stored energy in an object based on the positition in a gravitational field and how high or heavy it is. For example, a pencil on a table has more potential energy than one on the ground. Or a plane flying has more potential energy than a race car on the road. An example of gravitaional potential energy turning into kinetic energy would be when a kid sitting down goes down a slide. The kid is up at the top - that's the potential energy. When the kid slides down, the potential energy turns into kinetic energy.
+
 ## How The Formula Works
 Gravitational potential energy can be calculated by weight times height - but that only works when you are near Earth's surface. If you are a rocket in space, or a spacecraft launching into space, the gravitational force will change, including your gravitaional energy. The real formula is *GPE = mgh*, where *m* is the mass, *g* is the acceleration due to gravity, and *h* is the height.
 
