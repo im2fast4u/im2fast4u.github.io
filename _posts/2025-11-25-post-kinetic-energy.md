@@ -12,7 +12,7 @@ Kinetic energy is the energy of motion. An example of using kinetic energy is wh
 The formula for kinetic energy is $KE = \frac{1}{2}mv^2$, where $m$ is the mass and $v$ is the velocity. From this formula, you might be able to assume that it has something to do with motion just by looking at it (the velocity/speed shows you how it is related to moving or acting). This formula is very important to physicists.
 
 ## Real Life Example
-Let's say you are playing soccer and you kick a ball, and it goes high. To calculate the energy of the ball at its highest point, you will need to multiply its mass times its height. That's its gravitational potential energy. When the ball falls down, it releases kinetic energy. To find the kinetic energy of the ball, you can follow the formula above: $KE = \frac{1}{2}mv^2$.
+Let's say you are playing soccer and you kick a ball, and it goes high. To calculate the energy of the ball at its highest point, you will need to multiply its weight times its height. That's its gravitational potential energy. When the ball falls down, it releases kinetic energy. To find the kinetic energy of the ball, you can follow the formula above: $KE = \frac{1}{2}mv^2$.
 
 ## Conclusion
 You now know how to use kinetic and potential energy. It is interesting how both forms of energy relate to each other. Potential energy is the energy from an object based on it's height, while kinetic energy is the energy of an object when it is moving. Make sure to check my other posts on physics. Thank you for reading!
