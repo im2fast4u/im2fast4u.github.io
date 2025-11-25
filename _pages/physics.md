@@ -15,5 +15,7 @@ title: "Physics"
 
 [Blog Post: Gravitational Potential Energy](https://www.premmehta.com/post-gravitational-potential-energy/)
 
+[Blog Post: Kinetic Energy](https://www.premmehta.com/post-kinetic-energy/)
+
 ## *Part 3: Theories of Physics*
 [Blog Post: String Theory](https://www.premmehta.com/post-string-theory/)
