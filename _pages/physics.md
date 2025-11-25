@@ -17,7 +17,7 @@ title: "Physics"
 
 [Blog Post: Kinetic Energy](https://www.premmehta.com/post-kinetic-energy/)
 
-[Blog Post: Kinetic Energy](https://www.premmehta.com/post-other-forms-of-energy/)
+[Blog Post: Other Forms of Energy](https://www.premmehta.com/post-other-forms-of-energy/)
 
 ## *Part 3: Theories of Physics*
 [Blog Post: String Theory](https://www.premmehta.com/post-string-theory/)
