@@ -16,5 +16,3 @@ We talked about energy and gravitational potential energy. Now, we will briefly 
 
 ## Conclusion
 ...
-
-$E = mc^2$
