@@ -24,7 +24,6 @@ Making games started out hard, but the more I progressed, the more comfortable I
 Now you know everything you need to know about me! You know what physics all is about and what led to it. You know about some algorithms and how to code them. You also know what to expect while making games! You can find a variety of blogs in each of these areas under the respective sections on my website.
 
 ### Upcoming  Events
-
 1. *Weekly Post*
 2. *Brand New 2026 Home Page*
-3. *More Blog Posts - Conservation of Energy*
+3. *More Blog Posts*
