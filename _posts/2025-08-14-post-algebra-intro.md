@@ -8,7 +8,7 @@ Algebra can sometimes be hard. But you're in luck because I am going to tell you
 ## What Is Algebra About?
 Algebra is a not-very-easy subject in math that helps us develop and create new inventions. In algebra, letters, also known as variables, are replaced with numbers in a mathematical sentence. That is because we don't know what that number is. It is an unknown number. You solve for those variables by figuring out what number is being replaced by them. That is what the next section is about.
 
-## Solving For $x$
+## Solving For $X$
 If you are solving for a variable, the variable is most likely going to be $x$. It is the most common variable when it comes to algebra. Suppose we have the linear equation $4x - 5 = 19$ (linear equations come in the form of $y = mx + b$. This is explained in more detail in the next section). We need to make the equation become $x$ = value of $x$. We can do that by multiplying/dividing and adding/subtracting numbers on both sides of the equation. If we add 5 to both sides of the equation we get the new equation $4x = 24$. Now, all we need to do is divide both sides by 4, and we get $x = 6$. We solved for $x$ in the equation!
 
 ## A Simple Function
@@ -18,7 +18,7 @@ In the last section I told you about linear equations. They come in the form $y 
 Linear algebra studies vectors, and matrices. It is an advanced subject part of algebra. I am going to tell you what vectors are about in this part of the blog post. So, vectors are made up of two parts. They are the direction, and the magnitude. The direction represents where the vectors are moving. The magnitude is the length of the vector. For example, velocity can be a vector. I am not going to go too deep into this, but let's say the velocity at which I am running at is 5 mph east. The direction is east, and the magnitude (or length) is 5 mph.
 
 ## Conclusion
-Now you know what algebra is about and you even know some algebra if you didn't know. If you liked this post, see my other math blog posts on this website. I hope you enjoyed reading, and I hoped you learned something new!
+Algebra is a very big topic, and this is just a small part of it. It is also very fun. There will be more posts about algebra and math - make sure to check them out. I hope you enjoyed reading, and I hoped you learned something new!
 
 *Slope and y-intercept are not covered in this post.*
 
