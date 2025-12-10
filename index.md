@@ -23,6 +23,13 @@ Making games started out hard, but the more I progressed, the more comfortable I
 
 Now you know everything you need to know about me! You know what physics all is about and what led to it. You know about some algorithms and how to code them. You also know what to expect while making games! You can find a variety of blogs in each of these areas under the respective sections on my website.
 
+*The following paragraph will be included in the 2026 home page blog*
+
+## A Game of Chess
+I like to think of nature as the gods playing a game of chess. We don't know the rules of the game or how it works. All we do is observe the game. Of course after some time, we will eventually learn some of the rules ourselves such as how a rook moves. We have found out some of nature's laws over the years such as quantum mechanics.
+
+*Example from **Six Easy Pieces***
+
 ### Upcoming  Events
 1. *Weekly Post*
 2. *Brand New 2026 Home Page*
