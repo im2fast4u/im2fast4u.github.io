@@ -23,7 +23,10 @@ Making games started out hard, but the more I progressed, the more comfortable I
 
 Now you know everything you need to know about me! You know what physics all is about and what led to it. You know about some algorithms and how to code them. You also know what to expect while making games! You can find a variety of blogs in each of these areas under the respective sections on my website.
 
-*The following paragraph will be included in the 2026 home page blog*
+*The following paragraphs will be included in the 2026 home page blog*
+
+## Quantum Mechanics
+Quantum mechanics is a vast part of physics that has been studied for over a hundred years. It describes how particles, like electrons, act like waves. That is called the wave-particle duality which was also described by Thomas Young's double-slit experiment in the 1800s. Another big development of quantum mechanics is the Heisenberg Uncertainty Principle, $\Delta x \Delta p \ge \frac{\hbar}{2}$. It states that you can't know both, the position of a particle and it's momentum at the same time.
 
 ## A Game of Chess
 I like to think of nature as the gods playing a game of chess. We don't know the rules of the game or how it works. All we do is observe the game. Of course after some time, we will eventually learn some of the rules ourselves such as how a rook moves. We have found out some of nature's laws over the years such as quantum mechanics.
