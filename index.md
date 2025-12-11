@@ -26,7 +26,7 @@ Now you know everything you need to know about me! You know what physics all is 
 *The following paragraphs will be included in the 2026 home page blog*
 
 ## The Language Gods Speak
-Calculus is the most amazing thing I have studied - it's the language gods speak. It has a few core concepts, such as differential calculus (the study of the change of a slope), or integral calculus (finding the slope under a curve). It brings many wonders to life. If there was no calculus, there wouldn't be cell phones, computers, television, or whatever you are reading this on. Whether you are a high schooler going into college, an adult learning new things, or someone else, you should definitely try calculus.
+Calculus is the most amazing thing I have studied - it's the language gods speak. It is the study of countinuous change. Calculus brings many wonders to life. If there was no calculus, there wouldn't be cell phones, computers, television, or whatever you are reading this on. Whether you are a high schooler going into college, an adult learning new things, or someone else, you should definitely try calculus.
 
 ## Quantum Mechanics
 Quantum mechanics is a vast part of physics that has been studied for over a hundred years. It describes how particles, like electrons, act like waves. That is called the wave-particle duality which was also described by Thomas Young's double-slit experiment in the 1800s. Another big development of quantum mechanics is the Heisenberg Uncertainty Principle, $\Delta x \Delta p \ge \frac{\hbar}{2}$. It states that you can't know both, the position of a particle and it's momentum at the same time.
