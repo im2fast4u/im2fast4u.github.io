@@ -35,8 +35,3 @@ Quantum mechanics is a vast part of physics that has been studied for over a hun
 I like to think of nature as the gods playing a game of chess. We don't know the rules of the game or how it works. All we do is observe the game. Of course after some time, we will eventually learn some of the rules ourselves such as how a rook moves. We have found out some of nature's laws over the years such as quantum mechanics.
 
 *Example from **Six Easy Pieces** by Richard Feynman*
-
-### Upcoming  Events
-1. *Weekly Post*
-2. *Brand New 2026 Home Page*
-3. *More Blog Posts*
