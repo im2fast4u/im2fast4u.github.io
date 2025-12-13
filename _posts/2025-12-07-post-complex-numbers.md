@@ -12,4 +12,4 @@ Let's take the quadratic equation $x^2 + 6x + 10 = 0$. We can try to solve it us
 Complex numbers aren't only used in algebra - they are also common in engineering and physics. $i$ is used in quantum mechanics, such as in the Schrodinger equation (the Schrodinger equation will be saved for another time). In electrical engineering, complex numbers are used for AC circuits. The magnitude and phase of voltage are represented by $i$. Euler's equation is used to connect magnitude and phase (complex exponentials) to sine and cosine waves. Complex numbers make it easy for scientists and engineers to work with waves.
 
 ## Conclusion
-Complex numbers are all around us even when you don't notice it. When you pass by an electron, or when you charge you phone.
+Complex numbers are all around us even when you don't notice it. When you pass by an electron, or when you charge you phone. You can see how the square root of a negative number is really more than just an imaginary number - it's models nature.
