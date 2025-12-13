@@ -35,6 +35,6 @@ Physics is the science of nature. It describes how motion and gravity work, and 
 Quantum mechanics is a vast part of physics that has been studied for over a hundred years. It describes how particles, like electrons, act like waves. That is called the wave-particle duality which was also described by Thomas Young's double-slit experiment in the 1800s. Another big development of quantum mechanics is the Heisenberg Uncertainty Principle, $\Delta x \Delta p \ge \frac{\hbar}{2}$. It states that you can't know both, the position of a particle and it's momentum at the same time.
 
 ## A Game of Chess
-I like to think of nature as the gods playing a game of chess. We don't know the rules of the game or how it works. All we do is observe the game. Of course after some time, we will eventually learn some of the rules ourselves such as how a rook moves. We have found out some of nature's laws over the years such as quantum mechanics.
+I like to think of nature as the gods playing a game of chess. We don't know the rules of the game or how it works. All we do is observe the game. Of course after some time, we will eventually learn some of the rules ourselves such as how a rook moves. We have found out some of nature's laws over the years such as quantum mechanics. This shows that we can't just know everything when we are born - we have to slowly learn it.
 
 *Example from **Six Easy Pieces** by Richard Feynman*
