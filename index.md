@@ -29,7 +29,7 @@ Now you know everything you need to know about me! You know what physics all is 
 Calculus is the most amazing thing I have studied - it's the language god talks. It is the study of continuous change. Calculus brings many wonders to life. If there was no calculus, there wouldn't be cell phones, computers, television, or whatever you are reading this on. Whether you are a high schooler going into college, an adult learning new things, or someone else, you should definitely try calculus.
 
 ## Physics Here and There
-Physics is the science of nature. Physics is much bigger than you think - only a small part of the true universe has been discovered so far.
+Physics is the science of nature. It describes how motion and gravity work, and how everything around us work together to create the universe. Physicists are still working hard to learn more about this. In order to fully understand nature, we must first unify the fundamental forces of nature into a unified field theory. This is the part we are stuck on. To conclude, physics is much bigger than you think - only a small part of the true universe has been discovered so far.
 
 ## Quantum Mechanics
 Quantum mechanics is a vast part of physics that has been studied for over a hundred years. It describes how particles, like electrons, act like waves. That is called the wave-particle duality which was also described by Thomas Young's double-slit experiment in the 1800s. Another big development of quantum mechanics is the Heisenberg Uncertainty Principle, $\Delta x \Delta p \ge \frac{\hbar}{2}$. It states that you can't know both, the position of a particle and it's momentum at the same time.
