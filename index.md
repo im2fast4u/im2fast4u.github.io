@@ -25,6 +25,9 @@ Now you know everything you need to know about me! You know what physics all is 
 
 *The following paragraphs will be included in the 2026 home page blog*
 
+## The World of Math
+Some people think math is just something teachers came up with to keep kids busy - but that's not true. When you go to the grocery store and add up all the prices of the items you buy to find the total price, you're doing math. People also use math when they are keeping track of something, like how many pages you read in a day. You can record these things on a coordinate grid. Next time you do something like this, remember you are using math.
+
 ## The Language God Talks
 Calculus is the most amazing thing I have studied - it's the language god talks. It is the study of continuous change. Calculus brings many wonders to life. If there was no calculus, there wouldn't be cell phones, computers, television, or whatever you are reading this on. Whether you are a high schooler going into college, an adult learning new things, or someone else, you should definitely try calculus.
 
