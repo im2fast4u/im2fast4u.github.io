@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 I am 10 years old, and I have a passion for game development and physics. I study string theory and I like to read Richard Feynman. I want to get a PhD in physics and want to be a quantum physicist when I grow up.  I also like to write code in Python. I have an interest in data structures and algorithms, as well as solving puzzles.
