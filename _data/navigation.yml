@@ -3,7 +3,7 @@ main:
     url: /physics/
   - title: "Math"
     url: /math/
-  - title: "Engineering"
-    url: /engineering/
+  - title: "Game Development"
+    url: /game-development/
   - title: "Computer Science"
     url: /computer-science/
