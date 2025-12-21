@@ -7,4 +7,4 @@ permalink: /computer-science/
 A quick and simple algorithm for finding an item in a list
 
 [Blog Post: Quicksort](https://www.premmehta.com/post-quicksort/)\
-A clean and easy algorithm for sorting a list
+A nice and easy algorithm for sorting a list, also very fast
