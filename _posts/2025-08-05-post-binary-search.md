@@ -3,7 +3,7 @@ title: "Post: Binary Search"
 date: 2025-08-05
 ---
 
-Here I will show you a popular algorithm that can find an item in a list within just a few seconds! This algorithm is called binary search. It helps you with finding an item in a list very fast. Another algorithm, simple search takes way more time since it looks at each item in the list one by one. Now let's get into how binary search works!
+Here I will show you a popular algorithm that can find an item in a list within just a few seconds! This algorithm is called binary search. It helps you with finding an item in a list very fast. Another algorithm, simple search takes a lot more time since it looks at each item in the list one by one. Now let's get into how binary search works!
 
 For example, let's say I am thinking of a number between 1 and 100, and you have to guess that number in the fewest tries possible. I will tell you if your guess is too high, too low or correct. So, let's say you guess 1, then you guess 2, and so on. That is simple search. It will take you 100 tries to get the answer correct in the worst case. But in binary search, you always guess the number in between the choices.
 
