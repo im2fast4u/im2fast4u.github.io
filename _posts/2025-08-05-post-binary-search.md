@@ -29,4 +29,4 @@ def binary_search(list, item):
           low = mid + 1
     return None
 ```
-*The Binary Search Function Above Leaves The Index Of The Item In The List And Returns* `None` *If The Item Is Not In The List*
+*The Binary Search Function Above Leaves the Index of the Item in the List And Returns* `None` *if the Item is Not in the List*
