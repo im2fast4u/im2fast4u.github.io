@@ -9,7 +9,7 @@ To sort an array with selection sort, you have to choose the smallest number in 
 
 Quiksort uses a method called divide and conquer, so I will explain that before we get straight into quicksort. Divide and coquer is a strategy to solve something by breaking it down into smaller parts, and then adding them back together to find the real answer. Also, divide and conquer is not only used in quicksort. It has a play in many other algorithms such as merge sort.
 
-Let's say we have the list [5, 2, 3]. This is pretty simple. Quiksort usually sorts in ascending order, from smallest to largest. To sort the list, we must choose a pivot. The pivot can be any number, but I will choose 2. Now, we put any numbers smaller than the pivot before it, and any numbers greater than the pivot after it. Therefore, our sorted list is [2, 3, 5].
+Let's say we have the list [5, 2, 3]. This is pretty simple. Quiksort usually sorts in ascending order, from smallest to largest. To sort the list, we must choose a pivot. The pivot can be any number, but I will choose 3. Now, we put any numbers smaller than the pivot before it, and any numbers greater than the pivot after it. Therefore, our sorted list is [2, 3, 5].
 
 Now, let's sort a list of four numbers, [3, 1, 7, 4]. I will choose 4 as my pivot. If we follow all the steps and put the larger numbers after the pivot and the smaller numbers before it, we get [3, 1, 4, 7]. That still isn't sorted yet. We got two sub-arrays, [3, 1] and [7]. That means we must use quicksort again on the 3 and 1 (the second sub-array is already sorted). That is called recursion. It is when a function calls itself - we had to use quicksort a second time. Our final sorted list is [1, 3, 4, 7].
 
