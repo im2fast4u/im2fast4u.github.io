@@ -12,4 +12,4 @@ I found out that everything around us is made up of atoms. But atoms aren't like
 Before reading this book, I thought physics was about memorizing formulas and figuring out the distance from point A to point B. But now I see it as a way of uncovering hidden secrets of the universe. It's not just science - it's detective work, imagination, and curiosity. I still have a lot to learn. But I already know this: physics is real magic, and anyone can learn it if they're willing to ask the hard questions.
 
 ## Conclusion
-Physics is a big area of study which never ends. We have only discovered a small part of the true universe. I hope you enjoyed reading this blog post. If you did, read my other posts. Thank you for reading!
+Physics is a big area of study which never ends. We have only discovered a small part of the true universe. Physics showed me that there are things, mysterious things, that make the universe what it is now. I hope you enjoyed reading this blog post. If you did, read my other posts. Thank you for reading!
