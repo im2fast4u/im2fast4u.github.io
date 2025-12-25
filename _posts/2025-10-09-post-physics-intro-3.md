@@ -15,4 +15,4 @@ After reading some chapters, I imagined myself shrinking down, smaller than an a
 If you're a kid reading this, I want you to know something: you don't need to wait to learn about how the world works. You just need to be curious - and maybe a little brave - to ask weird questions. Because sometimes, those questions are the beginning of real discoveries.
 
 ## Conclusion
-Again, anyone can learn physics. Just be curious and ask questions. I hope you enjoyed reading this blog post. If you did, read my other posts. Thank you for reading!
+Again, anyone can learn physics. Just be curious and ask questions. Not even the smartest people who changed history stopped asking questions in this vast universe of mysteries. I hope you enjoyed reading this blog post. If you did, read my other posts. Thank you for reading!
