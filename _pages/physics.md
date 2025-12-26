@@ -24,5 +24,9 @@ title: "Physics"
 
 [Blog Post: Universal Gravitation](https://www.premmehta.com/post-universal-gravitation/)
 
+[Blog Post: Special Relativity](https://www.premmehta.com/post-special-relativity/)
+
+[Blog Post: General Relativity](https://www.premmehta.com/post-general-relativity/)
+
 ## *Part 4: Theories of Physics*
 [Blog Post: String Theory](https://www.premmehta.com/post-string-theory/)
