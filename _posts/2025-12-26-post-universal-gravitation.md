@@ -13,5 +13,7 @@ Now I will explain the formula of gravitation, $F = G \frac{m_1 m_2}{r^2}$. On t
 ## Cavendish's Experiment
 In the late 1700s, Cavendish did an experiment to find the density of Earth, which led to calculating the gravitational constant. The setup was simple: he used a rod with two balls at each end, and it had a string keeping it up. Then, he put two larger balls each on the left or right of the smaller balls. If every object attracts every other object, then the smaller balls will go toward the larger ones, twisting the string at the top. Then, he calculated the twist of the string. This experiment was a great demonstration of universal gravitation.
 
+[Cavendish's Experiment](https://upload.wikimedia.org/wikipedia/commons/0/0e/CavendishExperiment_TorsionFiber.png)
+
 ## Conclusion
 This post showed you more about gravity and the pull between objects. It also showed you how it works not only with the planets in the solar system but also with objects on Earth such as the balls from Cavendish's experiment. The formula for gravitation showed that the gravitational attraction is stronger if the objects are closer and if they are heavier. That concludes this blog post. I hope you enjoyed reading!
