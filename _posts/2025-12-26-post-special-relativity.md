@@ -15,8 +15,10 @@ Einstein's theory of special relativity comes in two main parts. For any object 
 ## Key Consequences
 However, since it's not possible to move faster than the speed of light, there must be a change as we go faster.
 
-- **Time Dilation**: Time ticks slower as we move faster. Someone moving at the speed of light will age slower than one not moving.
-- **Length Contraction**: The length of an object shortens as it goes faster
-- **Relativity of Simultaneity**: 
+- **Time Dilation**: Time ticks slower as we move faster.
+
+- **Length Contraction**: The length of an object shortens
+
+- **Mass-Energy Equaivalence**: Mass is equivalent to energy
 
 ## Conclusion
