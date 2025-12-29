@@ -17,8 +17,8 @@ However, since it's not possible to move faster than the speed of light, there m
 
 - **Time Dilation**: Time ticks slower as we move faster.
 
-- **Length Contraction**: The length of an object shortens
+- **Length Contraction**: The length of an object shortens.
 
-- **Mass-Energy Equaivalence**: Mass is equivalent to energy
+- **Mass-Energy Equaivalence**: Mass is equivalent to energy.
 
 ## Conclusion
