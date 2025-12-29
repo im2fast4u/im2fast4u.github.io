@@ -7,6 +7,7 @@ I named the first post in this section "The Invisible Force" - but gravity isn't
 ## Symmetry
 
 ## Space-Time
+Before Einstein published his theory of relativity, people thought space and time were two separate things. In 1905, Albert Einstein unified space and time together into a single four-dimensional spacetime. This unification was proved to be correct, which you will find more about in the next post.
 
 ## Speed of Light
 
