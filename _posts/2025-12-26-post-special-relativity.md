@@ -12,4 +12,11 @@ Before Einstein published his theory of relativity, people thought space and tim
 ## Two Pillars
 Einstein's theory of special relativity comes in two main parts. For any object moving at a constant speed, the laws of physics are all the same. And the speed of light in a vacuum, also known as the universal speed limit is always the same, about 300,000 km/s.
 
+## Key Consequences
+However, since it's not possible to move faster than the speed of light, there must be a change as we go faster.
+
+- **Time Dilation**: Time ticks slower as we move faster. Someone moving at the speed of light will age slower than one not moving.
+- **Length Contraction**: The length of an object shortens as it goes faster
+- **Relativity of Simultaneity**: 
+
 ## Conclusion
