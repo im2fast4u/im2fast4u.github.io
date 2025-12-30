@@ -11,6 +11,7 @@ Gravity isn't actually a force, it is the curvature of space-time caused by mass
 Imagine you have a trampoline, which is space-time in this example, and you put a heavy bowling ball straight down in the center. Let's say that was the sun. The sun will create a dip. Now, you put a small marble on the edge. The marble will act as Earth, and it will go rolling toward the bowling ball - that's how the sun attracts Earth. The sun curves space-time.
 
 ## Quantum Gravity
+After Einstein published his theory of general relativity, he wondered about unifying quantum mechanics and general relativity into a single framework called quantum gravity. Einstein worked on this for many years but never found a solution. This is still a problem we face today. Unifying quantum mechanics and general relativity is necessary for a theory of everything.
 
 ## Conclusion
 
