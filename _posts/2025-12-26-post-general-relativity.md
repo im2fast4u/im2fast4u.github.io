@@ -14,6 +14,6 @@ Imagine you have a trampoline, which is space-time in this example, and you put 
 After Einstein published his theory of general relativity, he wondered about unifying quantum mechanics and general relativity into a single framework called quantum gravity. Einstein worked on this for many years but never found a solution. This is still a problem we face today. Unifying quantum mechanics and general relativity is necessary for a theory of everything.
 
 ## Conclusion
-You should now have a clear understanding of what gravity actually is. The curvature of space-time caused by mass and energy, which bends time and explains why time ticks at different rates at different places. Einstein's theory of general relativity is the most succesful theory of gravity we have. That concludes this section of my blog. I hope you enjoyed reading this post!
+You should now have a clear understanding of what gravity actually is: the curvature of space-time caused by mass and energy, which bends time and explains why time ticks at different rates at different places. Einstein's theory of general relativity is the most successful theory of gravity we have. That concludes this section of my blog. I hope you enjoyed reading this post!
 
 [Curvature of Space-Time](https://www.azoquantum.com/image-handler/ts/20220808072851/ri/750/src/images/Article_Images/ImageForArticle_361_16599581290953360.jpg)
