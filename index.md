@@ -6,15 +6,11 @@ layout: single
 author_profile: true
 ---
 
-## Mathematics
-
 ### The World of Math
 Some people think math is just something teachers came up with to keep kids busy - but that's not true. When you go to the grocery store and add up all the prices of the items you buy to find the total price, you're doing math. People also use math when they are keeping track of something, like how many pages you read in a day. You can record these things on a coordinate grid. Next time you do something like this, remember you are using math.
 
 ### The Language God Talks
 Calculus is the most amazing thing I have studied - it's the language god talks. It is the study of continuous change. Calculus brings many wonders to life. If there was no calculus, there wouldn't be cell phones, computers, television, or whatever you are reading this on. Whether you are a high schooler going into college, an adult learning new things, or someone else, you should definitely try calculus.
-
-## Physics
 
 ### Physics Here and There
 Physics is the science of nature. It describes how motion and gravity work, and how everything around us work together to create the universe. Physicists are still working hard to learn more about this. In order to fully understand nature, we must first unify its fundamental forces into a unified field theory. This is the part we are stuck on. To conclude, physics is much bigger than you think - only a small part of the true universe has been discovered so far.
@@ -27,7 +23,7 @@ I like to think of nature as the gods playing a game of chess. We don't know the
 
 *Example from **Six Easy Pieces** by Richard Feynman*
 
-## 2025 Index Post
+### 2025 Index Post
 I am 10 years old, and I have a passion for game development and physics. I study string theory and I like to read Richard Feynman. I want to get a PhD in physics and want to be a quantum physicist when I grow up.  I also like to write code in Python. I have an interest in data structures and algorithms, as well as solving puzzles.
 
 In [physics](https://www.premmehta.com/physics/), I study quantum mechanics and learn string theory. Physics is all about nature. There are many formulas such as the formula for finding density or the distance formula. Physics is fun and exciting when you have so many choices!
