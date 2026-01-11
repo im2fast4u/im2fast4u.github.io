@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-*Hello, I am Prem Mehta. I enjoy reading and blogging. I also have a big interest in physics and science. I love unraveling challenging puzzles and riddles. My dream is to win a nobel prize someday. This website will teach you more about me in the blog posts I have written.*
+*Hello, I am Prem Mehta. I enjoy reading and blogging. I also have a big interest in physics and science. I love unraveling challenging puzzles and riddles. This website will teach you more about me in the blog posts I have written.*
 
 ## The World of Math
 Some people think math is just something teachers came up with to keep kids busy - but that's not true. When you go to the grocery store and add up all the prices of the items you buy to find the total price, you're doing math. People also use math when they are keeping track of something, like how many pages you read in a day. You can record these things on a coordinate grid. Next time you do something like this, remember you are using math.
