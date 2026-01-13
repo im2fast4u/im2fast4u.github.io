@@ -31,11 +31,11 @@ title: "Physics"
 ## *Part 5: Quantum Mechanics*
 [Blog Post: An Introduction](https://www.premmehta.com/post-intro-to-quantum-mechanics/)
 
-[Blog Post: Double-Slit Experiment](https://www.premmehta.com/post-intro-to-quantum-mechanics/)
+[Blog Post: Double-Slit Experiment](https://www.premmehta.com/post-double-slit-experiment/)
 
 [Blog Post: Uncertainty Principle](https://www.premmehta.com/post-uncertainty-principle/)
 
-[Blog Post: Schrodinger Equation](https://www.premmehta.com/post-Schrodinger-Equation/)
+[Blog Post: Schrodinger Equation](https://www.premmehta.com/post-schrodinger-equation/)
 
 ## *Part 5: Theories of Physics*
 [Blog Post: String Theory](https://www.premmehta.com/post-string-theory/)
