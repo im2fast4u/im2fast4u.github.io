@@ -73,7 +73,7 @@ author:
       url: "https://github.com/im2fast4u"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      #url: "https://instagram.com/"
+      url: "https://instagram.com/"
 
 footer:
   links:
