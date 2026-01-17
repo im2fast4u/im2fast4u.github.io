@@ -2,8 +2,10 @@ main:
   - title: "Physics"
     url: /physics/
   - title: "Math"
-    url: /math/
+    url: /math/ 
   - title: "Game Development"
     url: /game-development/
   - title: "Computer Science"
     url: /computer-science/
+  - title: "Books"
+    url: /books/
