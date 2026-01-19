@@ -8,7 +8,7 @@ The double-slit experiment, a famous experiment first done in 1801, is a massive
 
 <img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/1505118f-8bfd-46b9-9fbe-936f3485f114" />
 
-[Experiment Image](https://i.sstatic.net/rqIrv.png)
+<img width="250" height="140" alt="image" src="https://github.com/user-attachments/assets/1505118f-8bfd-46b9-9fbe-936f3485f114" />
 
 ## Experiment With Water Waves
 
