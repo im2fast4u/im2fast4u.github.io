@@ -6,8 +6,16 @@ The double-slit experiment, a famous experiment first done in 1801, is a massive
 
 ## Experiment With Bullets
 
+<img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/1505118f-8bfd-46b9-9fbe-936f3485f114" />
+
+[Experiment Image](https://i.sstatic.net/rqIrv.png)
+
 ## Experiment With Water Waves
 
+<img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/762c0120-e9ee-4829-b5bf-583543d871d3" />
+
 ## Experimemt With Electrons
+
+
 
 ## Conclusion - Final Results
