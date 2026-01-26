@@ -34,20 +34,20 @@ Summary
 1) *The probability of an event happening in a experiment\
    is a complex number* $\phi$ *called the probability\
    amplitude, squared.*
-   
-    $P$ = probability\
-    $\phi$ = probability amplitude\
-    $P = |\phi|^2$
 
-2) *When an experiment can happen in many ways, the probability\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $P$ = probability\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\phi$ = probability amplitude\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $P = |\phi|^2$
+
+3) *When an experiment can happen in many ways, the probability\
    amplitude is the sum of the probabilitiy amplitudes of the\
    experiment happening in each way. There is interference.*
 
-    $\phi$ = $\phi_{1}$ + $\phi_{2}$\
-    $P = |\phi_{1} + \phi_{2}|^2$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\phi$ = $\phi_{1}$ + $\phi_{2}$\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $P = |\phi_{1} + \phi_{2}|^2$
 
 3) *If an experiment tells if one or another event happens, the\
    the probability is the sum of the probabilities of each event.\
    There is no interference.*
 
-     $P = P_{1} = P_{2}$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $P = P_{1} = P_{2}$
