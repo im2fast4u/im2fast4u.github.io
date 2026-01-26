@@ -31,22 +31,22 @@ This fascinating experiment showed how quantum superposition and the wave-partic
 
 Summary
 
-1) *The probability of an event happening in a experiment
-   is a complex number $\phi$ called the probability
+1) *The probability of an event happening in a experiment\
+   is a complex number* $\phi$ *called the probability\
    amplitude, squared.*
    
     $P$ = probability\
     $\phi$ = probability amplitude\
     $P = |\phi|^2$
 
-3) *When an experiment can happen in many ways, the probability\
+2) *When an experiment can happen in many ways, the probability\
    amplitude is the sum of the probabilitiy amplitudes of the\
    experiment happening in each way. There is interference.*
 
     $\phi$ = $\phi_{1}$ + $\phi_{2}$\
     $P = |\phi_{1} + \phi_{2}|^2$
 
-4) *If an experiment tells if one or another event happens, the\
+3) *If an experiment tells if one or another event happens, the\
    the probability is the sum of the probabilities of each event.\
    There is no interference.*
 
