@@ -17,7 +17,7 @@ If we do the same experiment but with waves such as water waves, we get a differ
 
 <img width="313" height="161" alt="image" src="https://github.com/user-attachments/assets/762c0120-e9ee-4829-b5bf-583543d871d3" />
 
-This makes sense, because if you look at the picture, the wave is actually going through both slits. The amplitude of the wave, $\hat{h}$, is a complex number. The probability of the wave going through each hole is $$|\hat{h}|^2$$. The probability of the wave going through both holes is $$|\hat{h} + \hat{h}|^2$$. To conclude, we can say that $$I_{12} \neq I_{1} + I_{2}$$.
+This makes sense, because if you look at the picture, the wave is actually going through both slits. The amplitude of the wave, $\hat{h}$, is a complex number. The probability of the wave going through each hole is the amplitude squared. The probability of the wave going through both holes is the sum of the amplitudes squared. To conclude, we can say that $$I_{12} \neq I_{1} + I_{2}$$.
 
 ## Experimemt With Electrons
 
