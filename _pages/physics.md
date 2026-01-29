@@ -28,7 +28,7 @@ title: "Physics"
 
 [Blog Post: General Relativity](https://www.premmehta.com/post-general-relativity/)
 
-## *Part 5: Quantum Mechanics*
+## *Part 4: Quantum Mechanics*
 [Blog Post: An Introduction](https://www.premmehta.com/post-intro-to-quantum-mechanics/)
 
 [Blog Post: Double-Slit Experiment](https://www.premmehta.com/post-double-slit-experiment/)
