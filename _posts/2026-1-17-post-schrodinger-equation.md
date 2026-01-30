@@ -13,7 +13,7 @@ Let's take the partial derivative of $4x^3 + 3xy^2 - 4y$ with respect to $x$. Th
 ## Time-Dependent
 The time-dependent Schrodinger equation, or the most common one is for describing the rate of change of the state of a particle. The wave function $\psi$ represents the state of particle. The partial derivative (represented with backward 6s) acts on the wave function. It's with respect to time, so it finds how the state $\psi$ changes over time. The equation is usually written as:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $i\hbar \frac{\partial }{\partial t}\Psi (\mathbf{r},t)=\hat{H}\Psi (\mathbf{r},t)\$
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $i\hbar \frac{\partial }{\partial t}\Psi (\mathbf{r},t)=\hat{H}\Psi (\mathbf{r},t)\$
 
 where $i$ is the imaginary unit, $\hbar$ is the reduced planck's constant, and $\hat{H}$ is the hamiltonian operator (the total energy: potential + kinetic).
 
