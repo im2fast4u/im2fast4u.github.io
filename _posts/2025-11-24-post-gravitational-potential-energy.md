@@ -11,10 +11,12 @@ Gravitational potential energy is the stored energy in an object based on the po
 ## How the Formula Works
 Gravitational potential energy can be calculated by weight times height - but that only works when you are near Earth's surface. If you are a rocket in space, or a spacecraft launching into space, the gravitational force will change, including your gravitaional energy. The real formula is $GPE = mgh$, where $m$ is the mass, $g$ is the acceleration due to gravity, and $h$ is the height.
 
+*Weight is mass times the acceleration due to gravity on Earth, so you can just multiply weight and heigh together on Earth.*
+
 ## Finding the Weight
 So, let's say there is a wood log carrying 2 pounds on the left and $W$ pounds on the right. Suppose that the weight on the left goes 2 inches lower, and the weight on the right goes 1 inch higher. There is also a 1 pound weight in the middle that goes up 2 inches. We want to find out how much weight the log would have to carry on the right to balance the wood log, disregarding the weight of the log. We can figure this out using gravitational potential energy: the sum of the weights times the heights. This would give us the equation: (-2)(2) + (1)(2) + ($W$)(1) = 0, which would give us the solution $W$ = 2 pounds.
 
-*As in the equation, the change in the gravitational potential energy is 0 when the object is still and doesn't move*
+*As in the equation, the change in the gravitational potential energy is 0 when the object is still and doesn't move.*
 
 ## Conclusion
 Gravitational potential energy is very fascinating. Even rockets or satellites have gravitational energy - it's high up in a gravitational field. Mabe *you* are using gravitational potential energy as you read this. This concludes my blog post about gravitational peotential energy. I hope you enjoyed reading this blog post.
