@@ -5,7 +5,7 @@ date: 2025-12-26
 
 We have gone over the conservation of energy. Now, it is time for the next level: gravity. You might have heard of it before, but this post will briefly remind you of this invisible force and how it acts. The next post will go more deep into gravity and explain how to find the gravitational force. But for now, let's dive into what gravity is.
 
-## What is Gravity?
+## What Is Gravity?
 In simple words, gravity is an invisible force that makes objects fall towards Earth. Try jumping up. The fall that you experience is caused by gravity. If there was no gravity, we would all be floating. Different planets have a different gravitational force, so you can last longer in the air or vise versa. Anywhere you go, you will experience gravity. Your house, the moon, mars, etc.
 
 ## Everyday Objects
