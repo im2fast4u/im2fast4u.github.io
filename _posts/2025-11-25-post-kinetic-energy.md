@@ -17,4 +17,4 @@ Let's say you are playing soccer and you kick a ball, and it goes high. To calcu
 *At the ball's highest point, the potential energy is high because the ball is higher. The kinetic energy is low because the ball doesn't move.*
 
 ## Conclusion
-I showed you howed you two forms of energy, and how it works. It is interesting how both forms of energy relate to each other. Potential energy is the energy an object has based on its height, while kinetic energy is the energy of an object when it is moving. Make sure to check my other posts on physics. Thank you for reading!
+I showed you two forms of energy, and how they work. It is interesting how both forms of energy relate to each other. Potential energy is the energy an object has based on its height, while kinetic energy is the energy of an object when it is moving. Make sure to check my other posts on physics. Thank you for reading!
