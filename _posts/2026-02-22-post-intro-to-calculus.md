@@ -15,9 +15,8 @@ Calculus has two main parts: integral calculus and differencial calculus. The fu
 
 Differenciating the curve gives us infinately many straight lines, each length zero. We use that to find the slope of the graph at any given point. Integrating the curve, however, adds up those infinte straight lines and multiplies it by the width $dx$. That gives you the area under the curve from any given two points. These topics will be covered later in the next posts.
 
-## The Three Problems
-
-------------------------------------------------------------------
+## Conclusion and Wrap-Up
+...
 
 "Calculus is the language God talks"\
 \- **Richard P. Feynman**
