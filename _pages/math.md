@@ -3,6 +3,11 @@ permalink: /math/
 title: "Math"
 ---
 
-[Blog Post: Introduction To Algebra](https://www.premmehta.com/post-algebra-intro/)
+[Blog Post: Calculus - The Language of the Universe](https://www.premmehta.com/post-intro-to-calculus/)
 
-[Blog Post: Complex Numbers](https://www.premmehta.com/post-complex-numbers/)
+<!--[Blog Post: Calculus - Differentiating Equations](https://www.premmehta.com/post-differential-calculus/)
+
+[Blog Post: Calculus - Integration and Finding Area](https://www.premmehta.com/post-integral-calculus/)-->
+
+### Credits & References
+- Strogatz, Steven. *Infinite Powers: How Calculus Reveals the Secrets of the Universe.* Houghton Mifflin Harcourt, 2019.
