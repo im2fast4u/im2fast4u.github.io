@@ -3,7 +3,7 @@ title: "Post: Integral Calculus"
 date: 2026-02-22
 ---
 
-Curves have been a mystery for mathematicians for 2,000 years - especially areas of curves. Integration changed our world and helps us solve difficult problems in physics, engineering, and medical science. Most of the things in our universe have a curvy problem which is difficult to solve with just algebra and geometry. This is how we send rockets to space, create medicine to sicknesses, and make electronic gaming-systems.
+Curves have been a mystery for mathematicians for about 2,000 years - especially areas of curves. Integration changed our world and helps us to solve difficult problems in physics, engineering, and medical science. Most of the things in our universe have a curvy problem which is difficult to solve with just algebra and geometry. This is how we send rockets to space, invent medicine to cure diseases, and make electronic gaming-systems.
 
 ## Integrating Equations
 According to the fundamental theorem of calculus, differentiation and integration are inverse operations, which means that if you know how to differentiate, you can reverse it to integrate. Just like derivatives, integration has a power rule. To integrate an equation using the power rule, you add one to the exponent and divide by the new exponent. It is also written as $\int x^n dx = \frac{x^{n+1}}{n+1} + C$. If we find the derivative of $x^4$, we get $4x^3$. If we integrate that, we come back to $x^4$. If you try it with any power function, you will see that integration reverses differentiation.
