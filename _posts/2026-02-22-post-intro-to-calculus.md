@@ -15,7 +15,7 @@ Calculus has two main parts: integral calculus and differential calculus. The fu
 
 Differentiating the curve gives us infinitely many straight lines, each with an infinitesimally small length. We use that to find the instantaneous slope of the graph at any given point. Integrating the curve, however, adds up the areas of infinitely thin rectangles (the length times the width $dx$). That gives you the area under the curve from any given two points. These topics will be covered later in the next posts.
 
-## Conclusion and Wrap-Up
+## Conclusion
 Calculus solves the mystery of curves, motion, and change - those are what brought us here to this day. Without calculus, we wouldn't have phones, iPads, or any modern technology that we have today. We wouldn't even have some of the medicine that saves our bodies from illnesses. None of that is possible without differential and integral calculus.
 
 "Calculus is the language God talks"\
