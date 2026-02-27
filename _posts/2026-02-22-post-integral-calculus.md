@@ -26,3 +26,7 @@ Now you can see that integration and differentiation are inverse operations, and
 *Note: When integrating a function, you must add C at the end of the answer; the derivative of any constant is zero, so differentiating the answer with any constant added will get to that same function*
 
 *Note: When estimating the curve, the more rectangles there are and the smaller they are, the better the approximation becomes, so having infinite rectangles that are infinitesimally thin gives us the exact area*
+
+*Note: The integration simbol* $\int$ *is a squiggly S to denote that it's adding infinite rectangles. In the integration format,* $\int_{a}^{b} f(x) dx$, $f(x)$ *is the height of each rectangle which gets multiplied by the width* $dx$
+
+*Note:* $\Delta x$ *is the change in* $x$, *while* $dx$ *is the infinitesimal change in* $x$ *which is infinitesimally small. Instead of* $\frac{\Delta y}{\Delta x}$, $\frac{dy}{dx}$ *is used to find instantaneous rate of change. It is also multiplied by the height in integration*
