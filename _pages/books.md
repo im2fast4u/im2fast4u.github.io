@@ -6,6 +6,9 @@ title: "Books"
 ## Infinite Powers
 Infinite Powers, written by Steven Strogatz, captures the fundamental language of calculus and how it revolutionized with infinity from Archimedes's Method to how rockets launch into space. Steven Strogatz shows how differential and integral calculus changed the world we live in today, and how it got us GPS and cell phones. Without calculus we wouldn't have artificial intelligence or modern-day computers. This book reveals how calculus is the language of the universe and how it has evolved mathematics with our current understanding of the universe. 
 
+## Six Easy Pieces
+Richard Feynman presents everything about physics in his famous *Lectures on Physics*. Feynman's lectures are the answer to unifying the universe, from how we smell the fragrant of beautiful flowers to how Einsein's Relativity redefines gravity. It gives us a whole new understanding of physics and quantum behavior in the microscopic world. Feynman's Quantum Electrodynamics theory explains the interaction of electrons and how they emit photons. It gives us a representation of everything in our modern world.
+
 ## Harry Potter Series
 J.K. Rowling presents wonderful stories of magic in the book series *Harry Potter*.
 
