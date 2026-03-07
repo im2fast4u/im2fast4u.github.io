@@ -24,15 +24,6 @@ Doing all that work just to find the slope of a curve is overwhelming. In the mi
 
 If we use it to find the derivative of $x^2$, we get $2x$. Differentiating $x^3$ gives us $3x$. And differentiating $x^4$ is $4x$. This rule works for other power functions as well as this one. There is also a similar rule for integration, but that shall be discussed in the next post.
 
-<!--| Function | Derivative |
-| :--- | :--- |
-| $x^2$ | $2x$ |
-| $x^3$ | $3x^2$ |
-| $x^4$ | $4x^3$ |
-| $x^5$ | $5x^4$ |
-| $x^n$ | $nx^{n-1}$ |
-| $c \cdot x^n$ | $cn x^{n-1}$ |-->
-
 ## Rates in Speeds
 Derivatives are used to find the rate of change. In physics, the rate of change, or derivative, of velocity (a fancy term for speed) is acceleration. I am running in a race, with a speed of 2 mph when the race starts. Then, I speed up 3 mph every second. My velocity is then represented as $v(t) = 3t + 2$. To find my acceleration, you would differentiate the equation. According to the power rule, the derivative of $3t$ is 3. The derivative of a constant is always 0, so the derivative of the equation is 3. Therefore, my accerleration was 3mph/s.
 
