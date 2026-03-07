@@ -14,7 +14,24 @@ Now, we will get into finding the slope of curves. Let's take the curve $x^2$. I
 We could write this as a limit. Let's say distance between the two points is $h$. As we zoom in, the length of the line approaches 0. The equation would be the limit as $h$ approaches zero of the change in $y$ over the change in $x$, or $\lim_{h \to 0} [((x + h)^2 - x^2)/h]$. If we plug 0 into the equation, we get 0/0, which is indeterminate. But with a little bit of algebra, we can simplify the equation to $\lim_{h \to 0} 2x + h$ which gives us $2x$ when we plug in 0.
 
 ## The Power Rule
-Instead of doing all that work, what if I tell you there's a simpler way. The power rule of differentiation is a quicker way to do that mess. To find the derivative of a function, you multiply the coefficient by the exponent, and then subtract one from the exponent. It is written as $\frac{d}{dx} x^n = nx^{n-1}$. If we use it to find the derivative of $x^2$, we get $2x$. This rule works for other power functions as well as this one. There is also a similar rule for integration, but that shall be discussed in the next post.
+Doing all that work just to find the slope of a curve is overwhelming. In the mid 1600s, Newton discovered something for differentiating power functions known as the power rule. He discovered a law that the derivative of any power function is the power multiplied by the coefficient, raised to the power minus one, or $\frac{d}{dx} x^n = nx^{n-1}$.
+
+&nbsp;&nbsp;&nbsp;<ins>Function</ins>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<ins>Differentiation</ins>\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $x^2$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $2x^1$\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $x^3$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $3x^2$\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $x^4$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $4x^3$\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $x^5$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $5x^4$
+
+If we use it to find the derivative of $x^2$, we get $2x$. Differentiating $x^3$ gives us $3x$. And differentiating $x^4$ is $4x$. This rule works for other power functions as well as this one. There is also a similar rule for integration, but that shall be discussed in the next post.
+
+<!--| Function | Derivative |
+| :--- | :--- |
+| $x^2$ | $2x$ |
+| $x^3$ | $3x^2$ |
+| $x^4$ | $4x^3$ |
+| $x^5$ | $5x^4$ |
+| $x^n$ | $nx^{n-1}$ |
+| $c \cdot x^n$ | $cn x^{n-1}$ |-->
 
 ## Rates in Speeds
 Derivatives are used to find the rate of change. In physics, the rate of change, or derivative, of velocity (a fancy term for speed) is acceleration. I am running in a race, with a speed of 2 mph when the race starts. Then, I speed up 3 mph every second. My velocity is then represented as $v(t) = 3t + 2$. To find my acceleration, you would differentiate the equation. According to the power rule, the derivative of $3t$ is 3. The derivative of a constant is always 0, so the derivative of the equation is 3. Therefore, my accerleration was 3mph/s.
