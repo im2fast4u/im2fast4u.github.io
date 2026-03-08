@@ -13,8 +13,8 @@ The main part of integral calculus is finding the area under a curve. This probl
 
 To find the *exact* area, we would have to make infinite rectangles - each infinitesimally small, and add them together. To do that, you would integrate the function. If we are trying to find the area from point a to point b, you would replace the $x$ variable by b. Then, you would do the same thing with a, and subtract them. This is written by the equation
 
-$$A(x) = \int_{a}^{b} f(x) dx = F(a) - F(b)$$
-
+$$A(x) = \int_{a}^{b} f(x) dx = F(b) - F(a)$$
+ 
 where $F(x)$ is the integration of $f(x)$. The integration symbol is a stretched-out S to denote that it's summing up the areas of infinite rectangles. $f(x)$ is the height of each rectangle, while $dx$ is the width of each rectangle. The term $dx$ is known as a differential. It represents the infinitesimal change in $x$. We use $\frac{dy}{dx}$ to find the instantaneous rate of change instead of $\frac{\Delta y}{\Delta x}$.
 
 ## Integration in Races
