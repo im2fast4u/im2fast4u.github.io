@@ -8,6 +8,8 @@ Have you ever thought that the slope of a graph or equation is always a constant
 ## The Concept of Limits
 The limit tells you what happens when something approaches something else. The limit of a function tells you where the dependent variable ($y$) approaches as the independent variable ($x$) approaches a value. The standard form, $\lim_{x \to c} f(x) = L$, is said as "the limit as $x$ approaches $c$ of $f(x)$ is $L$". If we take the $\lim_{x \to 2} 2x + 1$, we get 5 (as $x$ approaches 2, $y$ approaches 5). However, we aren't finding the limit *at* $x=2$, we are finding the limit as $x$ *approaches* 2. That means you can't always plug $c$ into the equation.
 
+When you use direct substitution, you might get something where the denominator is zero. That means the function isn't defined at that point. You can graph the function, and determine what the dependent variable approaches. You can also factor out the numerator and cancel out the denominator. Another way is to rationalize the function if it has roots, or if it has trigonometric functions, you can use trigonometric identities. Depending on the function, you can always use a smart trick to cancel out the denominator.
+
 ## Tangent Lines
 Now, we will get into finding the slope of curves. Let's take the curve $x^2$. If we want to find the slope, we will have to zoom in until the curve is straight. The more we zoom in, the straighter the curve gets, and the smaller the length of the line gets. As you can see, we are creating infinitely many infinitely small straight lines. To find the slope of a straight line, you simply take the change in the the dependent variable and divide it by the change in the independent variable.
 
