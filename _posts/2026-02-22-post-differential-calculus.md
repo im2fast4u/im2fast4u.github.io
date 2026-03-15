@@ -30,6 +30,6 @@ If we use it to find the derivative of $x^2$, we get $2x$. Differentiating $x^3$
 Derivatives are used to find the rate of change. In physics, the rate of change, or derivative, of velocity is acceleration. Let's say I am running in a race, with a speed of 2 mph when the race starts. Then, I speed up 3 mph every second. My velocity is then represented as $v(t) = 3t + 2$. To find my acceleration, you would differentiate the equation. According to the power rule, the derivative of $3t$ is 3. The derivative of a constant is always 0, so the derivative of the equation is 3. Therefore, my accerleration was 3mph/s.
 
 ## Conclusion
-As you can see, the slope of a line can be a function just like an equation. The rate of change of $x^3$ is $3x^2$ whereas the rate of change of $x^4$ is $4x^3$. Differentiation breaks apart a graph into infinitely many infinitely small tangent lines (a line that touches a curve at one point), whereas integration adds up the area of infinitely thin rectangles together as you will see in the next post.
+As you can see, if you calculate the slope of a linear equation at *any* two points, you get the same rate of change. That is what makes a linear function unique. However, on a curved line, calculating the slope at two different points could give you different slopes. The slope at one point might be steeper (or larger) than the slope at another point. This is what makes differential calculus fascinating.
 
 *Note: The derivative of a constant is always 0 because it is a straight line, which has a slope of zero*
