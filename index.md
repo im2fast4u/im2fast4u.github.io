@@ -3,7 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
-author_profile: true
+author_profile: false
 ---
 
 *Hello, I am Prem Mehta. I enjoy reading and blogging. I also have a big interest in physics and science. I love unraveling challenging puzzles and riddles. This website will teach you more about me in the blog posts I have written.*
