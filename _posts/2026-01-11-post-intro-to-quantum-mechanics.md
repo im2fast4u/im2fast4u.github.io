@@ -14,5 +14,8 @@ It would be weird to be in multiple places or states at once. How can you be her
 ## Wave-Particle Duality
 In the 1920s, Louis de Broglie discovered that particles have wave-like properties. This suggested that particles behave like waves. So, are waves the same as particles? Waves and particles are still different things, although they act as they are the same. Thomas Young's double-slit experiment is also a great demonstration of the wave-particle duality.
 
+## Quantum Entanglement
+Another discovery in Quantum Mechanics was Quantum Entanglement. The theory suggests that particles can be linked, or entangled. This means that if a particle feels something, another particle feels that exact same thing. The distance of the particles doesn't matter - they will be in the same state even if they're in different galaxies. This theory was another great discovery of Quantum Mechanics.
+
 ## Conclusion
-Quantum mechanics is vast, and not easy at all. It requires lots of focus and passion. Louis de Broglie didn't easily discover the wave particle duality, and Erwin Schrodinger didn't discover quantum superposition just like that, it required lots of effort. These two principles, the wave-particle duality and superposition are defined and proven by Thomas Young's double-slit experiment, a famous experiment done in 1801.
+Quantum mechanics is vast, and not easy at all. It requires lots of focus and passion. Louis de Broglie didn't easily discover the wave particle duality, and Erwin Schrodinger didn't discover quantum superposition just like that, it required lots of effort. There are more special theories of Quantum Mechanics, which will be encountered in other posts.
