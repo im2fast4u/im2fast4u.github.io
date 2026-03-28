@@ -8,6 +8,9 @@ author_profile: false
 
 *Hello, I am Prem Mehta. I enjoy reading and blogging. I also have a big interest in physics and science. I love unraveling challenging puzzles and riddles. This website will teach you more about me in the blog posts I have written.*
 
+## Limits in Probability
+Probability is the chance or likeliness of a certain event happening. When you roll a die, the probability of rolling a 6 is 1/6 - probability is the number of favorable outcomes over the total number of possible outcomes. Let's take another example: I am thinking of a a number with no range, let's say 124, and you have to guess it. There are infinite possible numbers. Then the probability would be one divided by infinity. Mathematically, the probability would be zero. This is where limits come. $1/10$ is $0.1$, $1/100$ is $0.01$, $1/1000$ is $0.001$, and $1/10000$ is $0.0001$. As the denominator approaches infinity, the answer gets closer to zero. Therefore, we can conclude that the $\lim_{x \to \infty} \frac{1}{x} = 0$.
+
 ## The World of Math
 Some people think math is just something teachers came up with to keep kids busy - but that's not true. When you go to the grocery store and add up all the prices of the items you buy to find the total price, you're doing math. People also use math when they are keeping track of something, like how many pages you read in a day. You can record these things on a coordinate grid. Next time you do something like this, remember you are using math.
 
