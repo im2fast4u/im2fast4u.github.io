@@ -1,5 +1,5 @@
 ---
-title: "Quantum Electrodynamics"
+title: "Post: Quantum Electrodynamics"
 date: 2026-03-20
 ---
 Quantum Electrodynamics is the quantum field theory describing the interactions of light and matter, or charged particles such as electrons and positrons. When two electrons get close together, they exchange photons, also known as gamma rays. However, since an electron and a positron have opposite charges and have the same mass, they cancel each other out and disappear. But they still exchange photons. This exchanging of virtual photons is how we see light.
