@@ -6,6 +6,8 @@ layout: single
 author_profile: false
 ---
 
+[Presentation: Quantum Electrodynamics](https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view)
+
 *Hello, I am Prem Mehta. I enjoy reading and blogging. I also have a big interest in physics and science. I love unraveling challenging puzzles and riddles. This website will teach you more about me in the blog posts I have written.*
 
 ## Limits in Probability
