@@ -2,9 +2,10 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: single
+layout: splash #single
 author_profile: false
 ---
+**
 
 [Presentation: Quantum Electrodynamics](https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view)
 
