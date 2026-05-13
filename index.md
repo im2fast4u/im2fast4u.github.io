@@ -2,35 +2,35 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: splash #single
+layout: single
 author_profile: false
 ---
-**
 
 [Presentation: Quantum Electrodynamics](https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view)
 
-*Hello, I am Prem Mehta. I enjoy reading and blogging. I also have a big interest in physics and science. I love unraveling challenging puzzles and riddles. This website will teach you more about me in the blog posts I have written.*
+<!--*Hello, I am Prem Mehta. I enjoy reading and blogging. I also have a big interest in physics and science. I love unraveling challenging puzzles and riddles. This website will teach you more about me in the blog posts I have written.*
 
 ## Limits in Probability
-Probability is the chance or likeliness of a certain event happening. When you roll a die, the probability of rolling a 6 is 1/6 - probability is the number of favorable outcomes over the total number of possible outcomes. Let's take another example: I am thinking of a a number with no range, let's say 124, and you have to guess it. There are infinite possible numbers. Then the probability would be one divided by infinity. Mathematically, the probability would be zero. This is where limits come. $1/10$ is $0.1$, $1/100$ is $0.01$, $1/1000$ is $0.001$, and $1/10000$ is $0.0001$. As the denominator approaches infinity, the answer gets closer to zero. Therefore, we can conclude that the $\lim_{x \to \infty} \frac{1}{x} = 0$.
+Probability is the chance or likeliness of a certain event happening. When you roll a die, the probability of rolling a 6 is 1/6 - probability is the number of favorable outcomes over the total number of possible outcomes. Let's take another example: I am thinking of a a number with no range, let's say 124, and you have to guess it. There are infinite possible numbers. Then the probability would be one divided by infinity. Mathematically, the probability would be zero. This is where limits come. $1/10$ is $0.1$, $1/100$ is $0.01$, $1/1000$ is $0.001$, and $1/10000$ is $0.0001$. As the denominator approaches infinity, the answer gets closer to zero. Therefore, we can conclude that the $\lim_{x \to \infty} \frac{1}{x} = 0$.-->
 
 ## The World of Math
-Some people think math is just something teachers came up with to keep kids busy - but that's not true. When you go to the grocery store and add up all the prices of the items you buy to find the total price, you're doing math. People also use math when they are keeping track of something, like how many pages you read in a day. You can record these things on a coordinate grid. Next time you do something like this, remember you are using math.
+*Some people think math is just something teachers came up with to keep kids busy - but that's not true. When you go to the grocery store and add up all the prices of the items you buy to find the total price, you're doing math. People also use math when they are keeping track of something, like how many pages you read in a day. You can record these things on a coordinate grid. Next time you do something like this, remember you are using math.*
 
 ## The Language God Talks
-Calculus is the most amazing thing I have studied - it's the language god talks. It is the study of continuous change. Calculus brings many wonders to life. If there was no calculus, there wouldn't be cell phones, computers, television, or whatever you are reading this on. Whether you are a high schooler going into college, an adult learning new things, or someone else, you should definitely try calculus.
+*Calculus is the most amazing thing I have studied - it's the language god talks. It is the study of continuous change. Calculus brings many wonders to life. If there was no calculus, there wouldn't be cell phones, computers, television, or whatever you are reading this on. Whether you are a high schooler going into college, an adult learning new things, or someone else, you should definitely try calculus.*
 
-## Physics Here and There
-Physics is the science of nature. It describes how motion and gravity work, and how everything around us work together to create the universe. Physicists are still working hard to learn more about this. In order to fully understand nature, we must first unify its fundamental forces into a unified field theory. This is the part we are stuck on. To conclude, physics is much bigger than you think - only a small part of the true universe has been discovered so far.
+## Physics Here and Physics There
+*Physics is the science of nature. It describes how motion and gravity work, and how everything around us work together to create the universe. Physicists are still working hard to learn more about this. In order to fully understand nature, we must first unify its fundamental forces into a unified field theory. This is the part we are stuck on. To conclude, physics is much bigger than you think - only a small part of the true universe has been discovered so far.*
 
 ## Quantum Mechanics
-Quantum mechanics is a vast part of physics that has been studied for over a hundred years. It describes how particles, like electrons, act like waves. That is called the wave-particle duality which was also described by Thomas Young's double-slit experiment in the 1800s. Another big development of quantum mechanics is the Heisenberg Uncertainty Principle, $\Delta x \Delta p \ge \frac{\hbar}{2}$. It states that you can't know both, the position of a particle and it's momentum at the same time.
+*Quantum mechanics is a vast part of physics that has been studied for over a hundred years. It describes how particles, like electrons, act like waves. That is called the wave-particle duality which was also described by Thomas Young's double-slit experiment in the 1800s. Another big development of quantum mechanics is the Heisenberg Uncertainty Principle, $\Delta x \Delta p \ge \frac{\hbar}{2}$. It states that you can't know both, the position of a particle and it's momentum at the same time.*
 
 ## A Game of Chess
-I like to think of nature as the gods playing a game of chess. We don't know the rules of the game or how it works. All we do is observe the game. Of course after some time, we will eventually learn some of the rules ourselves such as how a rook moves. We have found out some of nature's laws over the years such as quantum mechanics. This shows that we can't just know everything when we are born - we have to slowly learn it.
+*I like to think of nature as the gods playing a game of chess. We don't know the rules of the game or how it works. All we do is observe the game. Of course after some time, we will eventually learn some of the rules ourselves such as how a rook moves. We have found out some of nature's laws over the years such as quantum mechanics. This shows that we can't just know everything when we are born - we have to slowly learn it.*
 
 *Example from **Six Easy Pieces** by Richard Feynman*
 
+<!--
 ## 2025 Index Post
 I am 10 years old, and I have a passion for game development and physics. I study string theory and I like to read Richard Feynman. I want to get a PhD in physics and want to be a quantum physicist when I grow up.  I also like to write code in Python. I have an interest in data structures and algorithms, as well as solving puzzles.
 
@@ -47,4 +47,4 @@ Making games started out hard, but the more I progressed, the more comfortable I
 
 [Computer science](https://www.premmehta.com/computer-science/) is the study of algorithms and coding. There are many algorithms that can help you in different ways. Breadth-First Search can help you with finding the shortest path. Dijkstra's Algorithm can help you with finding the path with the least weight. I like to code algorithms in Python, but you can code algorithms in any language!
 
-Now you know everything you need to know about me! You know what physics all is about and what led to it. You know about some algorithms and how to code them. You also know what to expect while making games! You can find a variety of blogs in each of these areas under the respective sections on my website.
+Now you know everything you need to know about me! You know what physics all is about and what led to it. You know about some algorithms and how to code them. You also know what to expect while making games! You can find a variety of blogs in each of these areas under the respective sections on my website.-->
