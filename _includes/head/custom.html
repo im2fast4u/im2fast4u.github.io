@@ -17,36 +17,51 @@
 
 
 
-<style>
-.greedy-nav .greedy-nav__toggle {
-  display: block !important;
-}
 
+<style>
+/* Hide the desktop links */
 .greedy-nav .visible-links {
   display: none !important;
+}
+
+/* Put hamburger on the far right */
+.greedy-nav {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.greedy-nav__toggle {
+  display: block !important;
+  margin-left: auto;
+}
+
+/* Make sure the hidden menu drops down correctly */
+.greedy-nav .hidden-links {
+  right: 0;
+  left: auto;
 }
 </style>
 
 <script>
 window.addEventListener("load", function () {
   const button = document.querySelector(".greedy-nav__toggle");
-  const visibleLinks = document.querySelector(".visible-links");
   const hiddenLinks = document.querySelector(".hidden-links");
 
-  if (!button || !visibleLinks || !hiddenLinks) return;
+  if (!button || !hiddenLinks) return;
 
-  // Keep hamburger visible
+  // Always show hamburger
   button.classList.remove("hidden");
 
-  // Move all links into hamburger menu
-  while (visibleLinks.children.length > 0) {
-    hiddenLinks.appendChild(visibleLinks.children[0]);
-  }
+  // Prevent the theme from hiding the button
+  button.style.display = "block";
 
-  // Open/close menu
-  button.addEventListener("click", function () {
+  // Open menu
+  button.onclick = function (event) {
+    event.preventDefault();
+    event.stopPropagation();
+
     hiddenLinks.classList.toggle("hidden");
     button.classList.toggle("close");
-  });
+  };
 });
 </script>
