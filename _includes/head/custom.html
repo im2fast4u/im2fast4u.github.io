@@ -15,4 +15,38 @@
         src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-<script src="{{ '/assets/js/plugins/jquery.greedy-navigation.js' | relative_url }}"></script>
+
+
+<style>
+.greedy-nav .greedy-nav__toggle {
+  display: block !important;
+}
+
+.greedy-nav .visible-links {
+  display: none !important;
+}
+</style>
+
+<script>
+window.addEventListener("load", function () {
+  const button = document.querySelector(".greedy-nav__toggle");
+  const visibleLinks = document.querySelector(".visible-links");
+  const hiddenLinks = document.querySelector(".hidden-links");
+
+  if (!button || !visibleLinks || !hiddenLinks) return;
+
+  // Keep hamburger visible
+  button.classList.remove("hidden");
+
+  // Move all links into hamburger menu
+  while (visibleLinks.children.length > 0) {
+    hiddenLinks.appendChild(visibleLinks.children[0]);
+  }
+
+  // Open/close menu
+  button.addEventListener("click", function () {
+    hiddenLinks.classList.toggle("hidden");
+    button.classList.toggle("close");
+  });
+});
+</script>
