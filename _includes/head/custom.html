@@ -19,47 +19,59 @@
 
 
 <style>
-/* Hide normal desktop navigation links */
+/* Hide normal navigation links */
 .greedy-nav .visible-links {
   display: none !important;
 }
 
-/* Keep the nav layout normal */
+/* Put menu button on the right */
 .greedy-nav {
-  position: relative;
+  display: flex;
+  align-items: center;
 }
 
-/* Put hamburger at the far right */
 .greedy-nav__toggle {
   display: block !important;
-  float: right;
   margin-left: auto;
+  position: relative;
+  z-index: 9999;
+  cursor: pointer;
 }
 
-/* Put dropdown under the hamburger */
+/* Put dropdown on right side */
 .greedy-nav .hidden-links {
-  right: 0;
-  left: auto;
+  right: 0 !important;
+  left: auto !important;
+  z-index: 9998;
 }
 </style>
 
 <script>
-window.addEventListener("load", function () {
-  const button = document.querySelector(".greedy-nav__toggle");
-  const hiddenLinks = document.querySelector(".hidden-links");
+(function () {
+  function setupMenu() {
+    var button = document.querySelector(".greedy-nav__toggle");
+    var menu = document.querySelector(".hidden-links");
 
-  if (!button || !hiddenLinks) return;
+    if (!button || !menu) {
+      return;
+    }
 
-  button.classList.remove("hidden");
-  button.style.display = "block";
+    // Always show hamburger
+    button.classList.remove("hidden");
+    button.style.display = "block";
 
-  button.onclick = function (event) {
-    event.preventDefault();
-    event.stopPropagation();
+    // Remove previous click behavior and replace it
+    button.onclick = function (e) {
+      e.preventDefault();
+      e.stopPropagation();
 
-    hiddenLinks.classList.toggle("hidden");
-    button.classList.toggle("close");
-  };
-});
+      menu.classList.toggle("hidden");
+      button.classList.toggle("close");
+    };
+  }
+
+  // Run after Minimal Mistakes finishes loading
+  window.setTimeout(setupMenu, 1000);
+})();
 </script>
 
