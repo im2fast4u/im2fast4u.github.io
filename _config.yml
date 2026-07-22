@@ -115,10 +115,9 @@ tag_archive:
   type: liquid
   path: /tags/
 
+
+
 # Additional settings
 
 navigation:
   type: overlay
-
-masthead:
-  links: true
