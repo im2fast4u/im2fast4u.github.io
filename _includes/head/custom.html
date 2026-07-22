@@ -18,36 +18,43 @@
 
 
 
-<style>
-/* Hide normal page links */
-.greedy-nav .visible-links {
-  display: none !important;
-}
 
-/* Force hamburger visible */
+
+<style>
+/* Keep hamburger visible */
 .greedy-nav .greedy-nav__toggle {
   display: block !important;
   visibility: visible !important;
 }
 
-/* Keep search icon beside hamburger */
+/* Keep search beside hamburger */
 .greedy-nav .search__toggle {
   display: block !important;
 }
 
 /* Put dropdown on the right */
 .greedy-nav .hidden-links {
-  right: 0 !important;
-  left: auto !important;
+  right: 0;
+  left: auto;
 }
 </style>
 
 <script>
 window.addEventListener("load", function () {
-  var button = document.querySelector(".greedy-nav__toggle");
+  setTimeout(function () {
+    var visible = document.querySelector(".visible-links");
+    var hidden = document.querySelector(".hidden-links");
+    var button = document.querySelector(".greedy-nav__toggle");
 
-  if (button) {
+    if (!visible || !hidden || !button) return;
+
+    // Move all navigation links into the hamburger menu
+    while (visible.children.length > 0) {
+      hidden.appendChild(visible.children[0]);
+    }
+
+    // Force hamburger to remain visible
     button.classList.remove("hidden");
-  }
+  }, 1000);
 });
 </script>
