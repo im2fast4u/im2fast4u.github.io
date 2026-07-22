@@ -3,7 +3,6 @@ permalink: /books/
 title: "Books"
 ---
 
-<!--
 ## Infinite Powers
 Infinite Powers, written by Steven Strogatz, captures the fundamental language of calculus and how it revolutionized infinity from Archimedes's Method to spaceflight. Strogatz shows how differential and integral calculus changed the world we live in today, and how it got us the global positioning system (GPS) and cell phones. Without calculus we wouldn't have had artificial intelligence or modern-day computers. This book reveals how calculus is the language of the universe and how it has advanced mathematics and our current understanding of the universe. 
 
@@ -21,4 +20,3 @@ In Harry's second year at Hogwarts, the chamber of secrets gets opened again. Ha
 
 ### The Prisoner of Azkaban
 When Harry goes to his third year at hogwarts, he learns that Sirius Black escaped from Azkaban, the wizard prison. He was the first to do it, so dementors (the guards of Azkaban) surround Hogwarts. However, the dementors always attack Harry. Therefore, Professor Lupin teaches him how to do a patronus. Harry also sneaks into Hogsmead and hears that Serius Black betrayed his parents and is the reason they're dead. But that isn't the case - at the end he learns that Black was innocent and Peter Pettigrew was behind the scenes.
--->
