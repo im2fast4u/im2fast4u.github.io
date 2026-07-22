@@ -19,63 +19,29 @@
 
 
 <style>
-/* Hide normal navigation links */
+/* Hide normal page links on all screen sizes */
 .greedy-nav .visible-links {
   display: none !important;
 }
 
-/* Put menu button on the right */
+/* Keep the original Minimal Mistakes layout */
 .greedy-nav {
-  display: flex;
-  align-items: center;
-}
-
-.greedy-nav__toggle {
-  display: block !important;
-  margin-left: auto;
   position: relative;
-  z-index: 9999;
-  cursor: pointer;
 }
 
-/* Put dropdown on right side */
-.greedy-nav .hidden-links {
-  right: 0 !important;
-  left: auto !important;
-  z-index: 9998;
-}
-
-.greedy-nav .hidden-links:not(.hidden) {
+/* Show the hamburger button */
+.greedy-nav .greedy-nav__toggle {
   display: block !important;
+}
+
+/* Keep search next to hamburger */
+.greedy-nav .search__toggle {
+  display: block !important;
+}
+
+/* Put dropdown under the right side */
+.greedy-nav .hidden-links {
+  right: 0;
+  left: auto;
 }
 </style>
-
-<script>
-(function () {
-  function setupMenu() {
-    var button = document.querySelector(".greedy-nav__toggle");
-    var menu = document.querySelector(".hidden-links");
-
-    if (!button || !menu) {
-      return;
-    }
-
-    // Always show hamburger
-    button.classList.remove("hidden");
-    button.style.display = "block";
-
-    // Remove previous click behavior and replace it
-    button.onclick = function (e) {
-      e.preventDefault();
-      e.stopPropagation();
-
-      menu.classList.toggle("hidden");
-      button.classList.toggle("close");
-    };
-  }
-
-  // Run after Minimal Mistakes finishes loading
-  window.setTimeout(setupMenu, 1000);
-})();
-</script>
-
