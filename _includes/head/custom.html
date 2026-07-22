@@ -19,23 +19,24 @@
 
 
 <style>
-/* Hide the desktop links */
+/* Hide normal desktop navigation links */
 .greedy-nav .visible-links {
   display: none !important;
 }
 
-/* Put hamburger on the far right */
+/* Keep the nav layout normal */
 .greedy-nav {
-  display: flex;
-  justify-content: flex-end;
+  position: relative;
 }
 
+/* Put hamburger at the far right */
 .greedy-nav__toggle {
   display: block !important;
+  float: right;
   margin-left: auto;
 }
 
-/* Make sure the hidden menu drops down correctly */
+/* Put dropdown under the hamburger */
 .greedy-nav .hidden-links {
   right: 0;
   left: auto;
@@ -49,13 +50,9 @@ window.addEventListener("load", function () {
 
   if (!button || !hiddenLinks) return;
 
-  // Always show hamburger
   button.classList.remove("hidden");
-
-  // Prevent the theme from hiding the button
   button.style.display = "block";
 
-  // Open menu
   button.onclick = function (event) {
     event.preventDefault();
     event.stopPropagation();
@@ -65,3 +62,4 @@ window.addEventListener("load", function () {
   };
 });
 </script>
+
