@@ -37,24 +37,39 @@
   right: 0;
   left: auto;
 }
+
+/* Never show the desktop navigation */
+.greedy-nav .visible-links {
+  display: none !important;
+}
 </style>
 
 <script>
-window.addEventListener("load", function () {
-  setTimeout(function () {
-    var visible = document.querySelector(".visible-links");
-    var hidden = document.querySelector(".hidden-links");
-    var button = document.querySelector(".greedy-nav__toggle");
+document.addEventListener("DOMContentLoaded", function () {
+
+  function forceHamburger() {
+    const visible = document.querySelector(".visible-links");
+    const hidden = document.querySelector(".hidden-links");
+    const button = document.querySelector(".greedy-nav__toggle");
 
     if (!visible || !hidden || !button) return;
 
-    // Move all navigation links into the hamburger menu
-    while (visible.children.length > 0) {
-      hidden.appendChild(visible.children[0]);
+    while (visible.firstElementChild) {
+      hidden.appendChild(visible.firstElementChild);
     }
 
-    // Force hamburger to remain visible
     button.classList.remove("hidden");
-  }, 1000);
+    button.style.display = "block";
+  }
+
+  forceHamburger();
+
+  // Run again after the theme finishes its own layout.
+  setTimeout(forceHamburger, 100);
+  setTimeout(forceHamburger, 500);
+  setTimeout(forceHamburger, 1000);
+
+  // Also handle window resizing.
+  window.addEventListener("resize", forceHamburger);
 });
 </script>
