@@ -27,9 +27,14 @@
   visibility: visible !important;
 }
 
-/* Keep search beside hamburger */
+/* Keep search visible and push controls to the right */
 .greedy-nav .search__toggle {
   display: block !important;
+  margin-left: auto !important;
+}
+
+.greedy-nav .greedy-nav__toggle {
+  margin-left: 0 !important;
 }
 
 /* Put dropdown on the right */
@@ -41,16 +46,6 @@
 /* Never show the desktop navigation */
 .greedy-nav .visible-links {
   display: none !important;
-}
-
-/* Move hamburger and search to the right */
-.greedy-nav {
-  justify-content: space-between;
-}
-
-.greedy-nav .greedy-nav__toggle,
-.greedy-nav .search__toggle {
-  margin-left: auto;
 }
 </style>
 
