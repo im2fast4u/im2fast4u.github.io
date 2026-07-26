@@ -19,7 +19,7 @@
 
 
 
-
+<!--
 <style>
 /* Keep hamburger visible */
 .greedy-nav .greedy-nav__toggle {
@@ -75,6 +75,84 @@ document.addEventListener("DOMContentLoaded", function () {
   setTimeout(forceHamburger, 1000);
 
   // Also handle window resizing.
+  window.addEventListener("resize", forceHamburger);
+});
+</script>
+-->
+
+<style>
+/* Keep hamburger visible */
+.greedy-nav .greedy-nav__toggle {
+  display: block !important;
+  visibility: visible !important;
+}
+/* Keep search visible */
+.greedy-nav .search__toggle {
+  display: block !important;
+}
+.greedy-nav .greedy-nav__toggle {
+  margin-left: 0 !important;
+}
+/* Put dropdown on the right */
+.greedy-nav .hidden-links {
+  right: 0;
+  left: auto;
+}
+/* Never show the desktop navigation */
+.greedy-nav .visible-links {
+  display: none !important;
+}
+/* Shop link — sits on the right, before search + hamburger */
+.greedy-nav .shop-link {
+  margin-left: auto !important;
+  padding: 0 15px;
+  font-weight: bold;
+  color: inherit;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+}
+.greedy-nav .shop-link:hover {
+  color: #000;
+  text-decoration: none;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  function forceHamburger() {
+    const nav = document.querySelector(".greedy-nav");
+    const visible = document.querySelector(".visible-links");
+    const hidden = document.querySelector(".hidden-links");
+    const button = document.querySelector(".greedy-nav__toggle");
+    const search = document.querySelector(".greedy-nav .search__toggle");
+    if (!nav || !visible || !hidden || !button) return;
+
+    // Move all nav items into the hamburger dropdown
+    while (visible.firstElementChild) {
+      hidden.appendChild(visible.firstElementChild);
+    }
+
+    // Add the Shop link once, positioned before the search toggle
+    if (!nav.querySelector(".shop-link")) {
+      const shop = document.createElement("a");
+      shop.className = "shop-link";
+      shop.href = "/shop/";
+      shop.textContent = "Shop";
+      if (search) {
+        nav.insertBefore(shop, search);
+      } else {
+        nav.insertBefore(shop, button);
+      }
+    }
+
+    button.classList.remove("hidden");
+    button.style.display = "block";
+  }
+  forceHamburger();
+  setTimeout(forceHamburger, 100);
+  setTimeout(forceHamburger, 500);
+  setTimeout(forceHamburger, 1000);
   window.addEventListener("resize", forceHamburger);
 });
 </script>
