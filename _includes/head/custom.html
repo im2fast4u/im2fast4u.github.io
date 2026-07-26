@@ -85,66 +85,40 @@ document.addEventListener("DOMContentLoaded", function () {
 .greedy-nav .greedy-nav__toggle {
   display: block !important;
   visibility: visible !important;
+  margin-left: 0 !important;
 }
 /* Keep search visible */
 .greedy-nav .search__toggle {
   display: block !important;
-}
-.greedy-nav .greedy-nav__toggle {
-  margin-left: 0 !important;
 }
 /* Put dropdown on the right */
 .greedy-nav .hidden-links {
   right: 0;
   left: auto;
 }
-/* Never show the desktop navigation */
+/* Push the remaining visible item (Shop) to the right side */
 .greedy-nav .visible-links {
-  display: none !important;
-}
-/* Shop link — sits on the right, before search + hamburger */
-.greedy-nav .shop-link {
-  margin-left: auto !important;
-  padding: 0 15px;
-  font-weight: bold;
-  color: inherit;
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  white-space: nowrap;
-}
-.greedy-nav .shop-link:hover {
-  color: #000;
-  text-decoration: none;
+  margin-left: auto;
 }
 </style>
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   function forceHamburger() {
-    const nav = document.querySelector(".greedy-nav");
     const visible = document.querySelector(".visible-links");
     const hidden = document.querySelector(".hidden-links");
     const button = document.querySelector(".greedy-nav__toggle");
-    const search = document.querySelector(".greedy-nav .search__toggle");
-    if (!nav || !visible || !hidden || !button) return;
+    if (!visible || !hidden || !button) return;
 
-    // Move all nav items into the hamburger dropdown
-    while (visible.firstElementChild) {
-      hidden.appendChild(visible.firstElementChild);
-    }
-
-    // Add the Shop link once, positioned before the search toggle
-    if (!nav.querySelector(".shop-link")) {
-      const shop = document.createElement("a");
-      shop.className = "shop-link";
-      shop.href = "/shop/";
-      shop.textContent = "Shop";
-      if (search) {
-        nav.insertBefore(shop, search);
-      } else {
-        nav.insertBefore(shop, button);
+    // Move every nav item EXCEPT Shop into the hamburger dropdown
+    Array.from(visible.children).forEach(item => {
+      const link = item.querySelector("a");
+      const href = link ? link.getAttribute("href") : "";
+      const text = link ? link.textContent.trim().toLowerCase() : "";
+      const isShop = href === "/shop/" || href === "/shop" || text === "shop";
+      if (!isShop) {
+        hidden.appendChild(item);
       }
-    }
+    });
 
     button.classList.remove("hidden");
     button.style.display = "block";
