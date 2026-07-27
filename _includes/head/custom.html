@@ -81,6 +81,13 @@ document.addEventListener("DOMContentLoaded", function () {
 </script>
 -->
 
+<script>
+  // Hide nav immediately to prevent flash
+  const style = document.createElement("style");
+  style.textContent = `.greedy-nav .visible-links > li { display: none !important; } .greedy-nav .visible-links > li:has(a[href="/shop/"]) { display: block !important; }`;
+  document.head.appendChild(style);
+</script>
+
 <style>
 /* Hide all pages except Shop before JS runs */
 .greedy-nav .visible-links > li {
@@ -89,7 +96,6 @@ document.addEventListener("DOMContentLoaded", function () {
 .greedy-nav .visible-links > li:has(a[href="/shop/"]) {
   display: block !important;
 }
-
 /* Keep hamburger visible */
 .greedy-nav .greedy-nav__toggle {
   display: block !important;
@@ -110,6 +116,7 @@ document.addEventListener("DOMContentLoaded", function () {
   margin-left: auto;
 }
 </style>
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   const visible = document.querySelector(".visible-links");
