@@ -17,59 +17,6 @@
 
 
 
-
-
-<style>
-/* Keep hamburger visible */
-.greedy-nav .greedy-nav__toggle {
-  display: block !important;
-  visibility: visible !important;
-  margin-left: 0 !important;
-}
-/* Keep search visible */
-.greedy-nav .search__toggle {
-  display: block !important;
-}
-/* Put dropdown on the right */
-.greedy-nav .hidden-links {
-  right: 0;
-  left: auto;
-}
-/* Push the remaining visible item (Shop) to the right side */
-.greedy-nav .visible-links {
-  margin-left: auto;
-}
-</style>
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  function forceHamburger() {
-    const visible = document.querySelector(".visible-links");
-    const hidden = document.querySelector(".hidden-links");
-    const button = document.querySelector(".greedy-nav__toggle");
-    if (!visible || !hidden || !button) return;
-
-    // Move every nav item EXCEPT Shop into the hamburger dropdown
-    Array.from(visible.children).forEach(item => {
-      const link = item.querySelector("a");
-      const href = link ? link.getAttribute("href") : "";
-      const text = link ? link.textContent.trim().toLowerCase() : "";
-      const isShop = href === "/shop/" || href === "/shop" || text === "shop";
-      if (!isShop) {
-        hidden.appendChild(item);
-      }
-    });
-
-    button.classList.remove("hidden");
-    button.style.display = "block";
-  }
-  forceHamburger();
-  setTimeout(forceHamburger, 100);
-  setTimeout(forceHamburger, 500);
-  setTimeout(forceHamburger, 1000);
-  window.addEventListener("resize", forceHamburger);
-});
-</script>
-
 <!--
 <style>
 /* Keep hamburger visible */
@@ -118,3 +65,74 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
 -->
+
+<style>
+/* Keep hamburger visible */
+.greedy-nav .greedy-nav__toggle {
+  display: block !important;
+  visibility: visible !important;
+  margin-left: 0 !important;
+}
+/* Keep search visible */
+.greedy-nav .search__toggle {
+  display: block !important;
+}
+/* Put dropdown on the right */
+.greedy-nav .hidden-links {
+  right: 0;
+  left: auto;
+}
+/* Push Shop to the right side */
+.greedy-nav .visible-links {
+  margin-left: auto;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const visible = document.querySelector(".visible-links");
+  const hidden = document.querySelector(".hidden-links");
+  const button = document.querySelector(".greedy-nav__toggle");
+  if (!visible || !hidden || !button) return;
+
+  function isShop(item) {
+    const link = item.querySelector("a");
+    if (!link) return false;
+    const href = link.getAttribute("href") || "";
+    const text = link.textContent.trim().toLowerCase();
+    return href === "/shop/" || href === "/shop" || text === "shop";
+  }
+
+  let sweeping = false;
+  function sweep() {
+    if (sweeping) return;
+    sweeping = true;
+
+    // Move non-Shop items out of visible-links into the hamburger
+    Array.from(visible.children).forEach(item => {
+      if (!isShop(item)) hidden.appendChild(item);
+    });
+
+    // If the theme pushed Shop into the hamburger, bring it back
+    Array.from(hidden.children).forEach(item => {
+      if (isShop(item)) visible.appendChild(item);
+    });
+
+    button.classList.remove("hidden");
+    button.style.display = "block";
+
+    sweeping = false;
+  }
+
+  sweep();
+
+  // Watch both lists — re-sweep whenever the theme's greedy-nav shuffles items
+  const observer = new MutationObserver(sweep);
+  observer.observe(visible, { childList: true });
+  observer.observe(hidden, { childList: true });
+
+  // Belt-and-suspenders: still handle explicit resize + a couple delayed passes
+  window.addEventListener("resize", sweep);
+  setTimeout(sweep, 100);
+  setTimeout(sweep, 500);
+  setTimeout(sweep, 1000);
+});
