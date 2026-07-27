@@ -82,6 +82,14 @@ document.addEventListener("DOMContentLoaded", function () {
 -->
 
 <style>
+/* Hide all pages except Shop before JS runs */
+.greedy-nav .visible-links > li {
+  display: none !important;
+}
+.greedy-nav .visible-links > li:has(a[href="/shop/"]) {
+  display: block !important;
+}
+
 /* Keep hamburger visible */
 .greedy-nav .greedy-nav__toggle {
   display: block !important;
