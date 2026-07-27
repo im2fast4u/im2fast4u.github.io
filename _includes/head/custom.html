@@ -69,3 +69,53 @@ document.addEventListener("DOMContentLoaded", function () {
   window.addEventListener("resize", forceHamburger);
 });
 </script>
+
+
+<!--
+<style>
+/* Keep hamburger visible */
+.greedy-nav .greedy-nav__toggle {
+  display: block !important;
+  visibility: visible !important;
+}
+/* Keep search visible and push controls to the right */
+.greedy-nav .search__toggle {
+  display: block !important;
+  margin-left: auto !important;
+}
+.greedy-nav .greedy-nav__toggle {
+  margin-left: 0 !important;
+}
+/* Put dropdown on the right */
+.greedy-nav .hidden-links {
+  right: 0;
+  left: auto;
+}
+/* Never show the desktop navigation */
+.greedy-nav .visible-links {
+  display: none !important;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  function forceHamburger() {
+    const visible = document.querySelector(".visible-links");
+    const hidden = document.querySelector(".hidden-links");
+    const button = document.querySelector(".greedy-nav__toggle");
+    if (!visible || !hidden || !button) return;
+    while (visible.firstElementChild) {
+      hidden.appendChild(visible.firstElementChild);
+    }
+    button.classList.remove("hidden");
+    button.style.display = "block";
+  }
+  forceHamburger();
+  // Run again after the theme finishes its own layout.
+  setTimeout(forceHamburger, 100);
+  setTimeout(forceHamburger, 500);
+  setTimeout(forceHamburger, 1000);
+  // Also handle window resizing.
+  window.addEventListener("resize", forceHamburger);
+});
+</script>
+-->
