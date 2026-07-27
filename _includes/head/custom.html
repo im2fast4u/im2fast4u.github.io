@@ -82,12 +82,6 @@ document.addEventListener("DOMContentLoaded", function () {
 -->
 
 <style>
-/* Hide every top-nav item except Shop.
-   If the theme shuffles anything back into visible-links, this keeps it hidden. */
-.greedy-nav .visible-links > li:not(:has(a[href="/shop/"])) {
-  display: none !important;
-}
-
 /* Keep hamburger visible */
 .greedy-nav .greedy-nav__toggle {
   display: block !important;
@@ -126,6 +120,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   function sweep() {
+    // Move non-Shop items into the hamburger
     Array.from(visible.children).forEach(item => {
       if (!isShop(item)) hidden.appendChild(item);
     });
@@ -134,8 +129,8 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   sweep();
-  // A couple of delayed passes in case the theme's own script runs after us
   setTimeout(sweep, 200);
   setTimeout(sweep, 1000);
+  window.addEventListener("resize", sweep);
 });
 </script>
