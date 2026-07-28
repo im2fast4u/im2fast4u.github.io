@@ -11,9 +11,9 @@ colors:
   - Metallic Red
   - Matte Black
   - Silver
-# stripe_url: "https://buy.stripe.com/test_YOUR_LINK_HERE"
+print_time: "1–5 business days to print, then ships USPS Ground Advantage"
 ---
 
-A detailed articulated dragon, perfect for tabletop gaming, desk decor, or gifting.
+A detailed articulated dragon. Perfect for tabletop gaming, desk decor, or gifting.
 
 Each dragon is hand-inspected before shipping. Color availability may vary — please note your preferred color in the checkout notes, or I'll ship whichever is in stock.
