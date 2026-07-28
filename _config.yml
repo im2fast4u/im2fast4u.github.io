@@ -107,15 +107,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _products
-  - scope:
-      path: ""
-      type: products
-    values:
-      layout: product
-      author_profile: false
-      share: false
-      comments: false
   
 
 category_archive:
@@ -129,3 +120,14 @@ collections:
   products:
     output: true
     permalink: /shop/:name/
+
+defaults:
+  # _products
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: product
+      author_profile: false
+      share: false
+      comments: false
