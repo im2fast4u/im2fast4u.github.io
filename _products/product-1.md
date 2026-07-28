@@ -11,7 +11,7 @@ colors:
   - Metallic Red
   - Matte Black
   - Silver
-<!-- stripe_url: "https://buy.stripe.com/test_YOUR_LINK_HERE" -->
+# stripe_url: "https://buy.stripe.com/test_YOUR_LINK_HERE"
 ---
 
 A detailed articulated dragon. Perfect for tabletop gaming, desk decor, or gifting.
