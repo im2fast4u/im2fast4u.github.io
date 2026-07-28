@@ -30,6 +30,7 @@ layout: single
     {% endif %}
   </ul>
 
+  <!--
   {% if page.stripe_url %}
     <a href="{{ page.stripe_url }}" class="btn btn--primary btn--large">
       Buy Now — Ships from Delaware
@@ -38,7 +39,22 @@ layout: single
       <small>Shipping calculated at checkout. Secure payment via Stripe.</small>
     </p>
   {% endif %}
+-->
 
+{% if page.stripe_url %}
+  <a href="{{ page.stripe_url }}" class="btn btn--primary btn--large">
+    Buy Now — Ships from Delaware
+  </a>
+  <p class="product-note">
+    <small>Shipping calculated at checkout. Secure payment via Stripe.</small>
+  </p>
+{% else %}
+  <div class="product-coming-soon">
+    <strong>Checkout coming soon!</strong>
+    <p><small>This item will be available for purchase shortly.</small></p>
+  </div>
+{% endif %}
+  
 </div>
 
 <style>
@@ -80,4 +96,17 @@ layout: single
   margin-top: 0.5em;
   color: #666;
 }
+
+/* -------- */
+.product-coming-soon {
+  padding: 1em 1.2em;
+  background: #fff8e1;
+  border: 1px solid #f4d47a;
+  border-radius: 6px;
+  color: #6b5300;
+}
+.product-coming-soon p { margin: 0.3em 0 0 0; }
+/* -------- */
+
+  
 </style>
