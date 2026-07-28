@@ -1,0 +1,83 @@
+---
+layout: single
+---
+
+<div class="product-page">
+
+  {% if page.photos %}
+    <div class="product-gallery">
+      {% for photo in page.photos %}
+        <img src="{{ photo | relative_url }}" alt="{{ page.title }}" class="product-photo">
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <p class="product-price">${{ page.price }}</p>
+
+  <div class="product-description">
+    {{ content }}
+  </div>
+
+  <ul class="product-details">
+    {% if page.dimensions %}
+      <li><strong>Dimensions:</strong> {{ page.dimensions }}</li>
+    {% endif %}
+    {% if page.colors %}
+      <li><strong>Available colors:</strong> {{ page.colors | join: ", " }}</li>
+    {% endif %}
+    {% if page.print_time %}
+      <li><strong>Print & lead time:</strong> {{ page.print_time }}</li>
+    {% endif %}
+  </ul>
+
+  {% if page.stripe_url %}
+    <a href="{{ page.stripe_url }}" class="btn btn--primary btn--large">
+      Buy Now — Ships from Delaware
+    </a>
+    <p class="product-note">
+      <small>Shipping calculated at checkout. Secure payment via Stripe.</small>
+    </p>
+  {% endif %}
+
+</div>
+
+<style>
+.product-page { max-width: 700px; }
+.product-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 0.75em;
+  margin-bottom: 1.5em;
+}
+.product-photo {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 1px solid #eee;
+}
+.product-price {
+  font-size: 1.8em;
+  font-weight: 600;
+  color: #222;
+  margin: 0.5em 0 1em 0;
+}
+.product-description {
+  margin-bottom: 1.5em;
+  line-height: 1.6;
+}
+.product-details {
+  list-style: none;
+  padding: 1em;
+  background: #f7f7f7;
+  border-radius: 6px;
+  margin-bottom: 1.5em;
+}
+.product-details li {
+  padding: 0.3em 0;
+}
+.product-note {
+  margin-top: 0.5em;
+  color: #666;
+}
+</style>
