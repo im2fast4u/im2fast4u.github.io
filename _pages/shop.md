@@ -58,6 +58,6 @@ Welcome to my shop! Every item is 3D printed to order in Delaware. Ships via USP
 .shop-card-price {
   margin: 0;
   font-weight: 600;
-  color: #444;
+  color: #0066cc;
 }
 </style>
