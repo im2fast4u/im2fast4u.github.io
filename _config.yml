@@ -107,6 +107,16 @@ defaults:
     values:
       layout: single
       author_profile: false
+  # _products
+  - scope:
+      path: ""
+      type: products
+    values:
+      layout: product
+      author_profile: false
+      share: false
+      comments: false
+  
 
 category_archive:
   type: liquid
@@ -114,3 +124,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  products:
+    output: true
+    permalink: /shop/:name/
