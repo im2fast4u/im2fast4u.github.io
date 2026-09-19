@@ -1,6 +1,7 @@
 ---
 title: "The Schrodinger Equation"
 date: 2026-1-17
+mathjax: true
 ---
 
 The Schrodinger equation is another great discovery that explains how a particle state changes over time. It was formulated in the 1920s by Erwin Schrodinger. It is one of the earliest foundations of quantum physics. I found this equation interesting to me, so I decided to included it in my blogs.
