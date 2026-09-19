@@ -1,7 +1,6 @@
 ---
 title: "The Schrodinger Equation"
 date: 2026-1-17
-mathjax: true
 ---
 
 The Schrodinger equation is another great discovery that explains how a particle state changes over time. It was formulated in the 1920s by Erwin Schrodinger. It is one of the earliest foundations of quantum physics. I found this equation interesting to me, so I decided to included it in my blogs.
@@ -14,7 +13,7 @@ Let's take the partial derivative of $4x^3 + 3xy^2 - 4y$ with respect to $x$. Th
 ## Time-Dependent
 The time-dependent Schrodinger equation, or the most common one is for describing the rate of change of the state of a particle. The wave function $\psi$ represents the state of particle. The partial derivative (represented with backward 6s) acts on the wave function. It's with respect to time, so it finds how the state $\psi$ changes over time. The equation is usually written as:
 
-$$i\hbar \frac{\partial }{\partial t}\Psi (\mathbf{r},t)=\hat{H}\Psi (\mathbf{r},t)\$$
+$i\hbar \frac{\partial }{\partial t}\Psi (\mathbf{r},t)=\hat{H}\Psi (\mathbf{r},t)\$
 
 where $i$ is the imaginary unit, $\hbar$ is the reduced Planck's constant, and $\hat{H}$ is the hamiltonian operator (potential energy + kinetic energy).
 
