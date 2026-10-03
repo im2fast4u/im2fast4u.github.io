@@ -20,3 +20,4 @@ In Harry's second year at Hogwarts, the chamber of secrets gets opened again. Ha
 
 ### The Prisoner of Azkaban
 When Harry goes to his third year at hogwarts, he learns that Sirius Black escaped from Azkaban, the wizard prison. He was the first to do it, so dementors (the guards of Azkaban) surround Hogwarts. However, the dementors always attack Harry. Therefore, Professor Lupin teaches him how to do a patronus. Harry also sneaks into Hogsmead and hears that Serius Black betrayed his parents and is the reason they're dead. But that isn't the case - at the end he learns that Black was innocent and Peter Pettigrew was behind the scenes.
+-->
