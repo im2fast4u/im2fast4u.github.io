@@ -1,0 +1,540 @@
+---
+# Only the main Sass file needs front matter
+search: false
+---
+
+@charset "utf-8";
+
+/*
+   Minimal Mistakes theme
+   Keep these imports at the top.
+*/
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+
+/* =========================================================
+   PREMMEHTA.COM CUSTOM STYLES
+   ========================================================= */
+
+
+/* =========================================================
+   GENERAL SITE IMPROVEMENTS
+   ========================================================= */
+
+.page__content {
+  line-height: 1.75;
+}
+
+.page__content p {
+  margin-bottom: 1.4em;
+}
+
+.page__content h2 {
+  margin-top: 2em;
+}
+
+.page__content h3 {
+  margin-top: 1.6em;
+}
+
+
+/* Make the main content slightly wider */
+
+.page {
+  @media (min-width: 1024px) {
+    width: calc(100% - 200px);
+  }
+}
+
+
+/* =========================================================
+   HEADER / NAVIGATION
+   ========================================================= */
+
+.masthead {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.greedy-nav {
+  background: transparent;
+}
+
+.greedy-nav a {
+  font-weight: 600;
+}
+
+.greedy-nav .visible-links a::before {
+  height: 2px;
+}
+
+
+/* =========================================================
+   HOMEPAGE HERO
+   ========================================================= */
+
+.prem-hero {
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 65px 20px 75px;
+}
+
+.prem-hero h1 {
+  font-size: 3.7rem;
+  line-height: 1.1;
+  margin-bottom: 20px;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+.hero-subtitle {
+  max-width: 750px;
+  margin: 0 auto 35px;
+  font-size: 1.25rem;
+  line-height: 1.7;
+  opacity: 0.82;
+}
+
+.hero-buttons {
+  margin-top: 30px;
+}
+
+
+/* =========================================================
+   BUTTONS
+   ========================================================= */
+
+.hero-primary,
+.hero-secondary,
+.project-button {
+  display: inline-block;
+  padding: 13px 25px;
+  margin: 5px;
+  border-radius: 8px;
+  font-weight: 700;
+  text-decoration: none !important;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    opacity 0.2s ease;
+}
+
+.hero-primary {
+  background: #4169e1;
+  color: #ffffff !important;
+  border: 2px solid #4169e1;
+}
+
+.hero-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 18px rgba(65, 105, 225, 0.25);
+  color: #ffffff !important;
+}
+
+.hero-secondary {
+  background: transparent;
+  color: #4169e1 !important;
+  border: 2px solid #4169e1;
+}
+
+.hero-secondary:hover {
+  transform: translateY(-2px);
+  background: rgba(65, 105, 225, 0.06);
+}
+
+
+/* =========================================================
+   TOPIC GRID
+   Physics / Math / CS / Projects cards
+   ========================================================= */
+
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  margin: 35px 0 60px;
+}
+
+.topic-card {
+  display: block;
+  padding: 30px;
+  border: 1px solid rgba(127, 127, 127, 0.25);
+  border-radius: 14px;
+  text-decoration: none !important;
+  color: inherit !important;
+  background: rgba(255, 255, 255, 0.02);
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.topic-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.09);
+  border-color: rgba(65, 105, 225, 0.5);
+}
+
+.topic-card h2 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 1.45rem;
+}
+
+.topic-card p {
+  margin-bottom: 0;
+  line-height: 1.65;
+  opacity: 0.82;
+}
+
+.topic-icon {
+  display: block;
+  font-size: 2.2rem;
+  line-height: 1;
+  margin-bottom: 12px;
+}
+
+
+/* =========================================================
+   CURRENTLY LEARNING BOX
+   ========================================================= */
+
+.learning-box {
+  margin: 30px 0 50px;
+  padding: 25px 30px;
+
+  border-left: 5px solid #4169e1;
+  border-radius: 8px;
+
+  background: rgba(65, 105, 225, 0.07);
+
+  line-height: 2;
+}
+
+
+/* =========================================================
+   PROJECTS
+   ========================================================= */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 25px;
+  margin: 30px 0 50px;
+}
+
+.project-card {
+  padding: 30px;
+
+  border: 1px solid rgba(127, 127, 127, 0.25);
+  border-radius: 14px;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.08);
+  border-color: rgba(65, 105, 225, 0.45);
+}
+
+.project-card h2 {
+  margin-top: 0;
+  margin-bottom: 15px;
+}
+
+.project-card p {
+  line-height: 1.65;
+}
+
+.project-button {
+  margin: 12px 0 0;
+  padding: 10px 18px;
+
+  background: #4169e1;
+  color: #ffffff !important;
+
+  border: 2px solid #4169e1;
+}
+
+.project-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(65, 105, 225, 0.22);
+}
+
+
+/* =========================================================
+   ARTICLE CARDS
+   You can use these on Physics, Math, etc.
+   ========================================================= */
+
+.article-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin: 30px 0;
+}
+
+.article-card {
+  display: block;
+  padding: 24px;
+
+  border: 1px solid rgba(127, 127, 127, 0.25);
+  border-radius: 12px;
+
+  text-decoration: none !important;
+  color: inherit !important;
+
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+}
+
+.article-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.07);
+  border-color: rgba(65, 105, 225, 0.45);
+}
+
+.article-card h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.article-card p {
+  margin-bottom: 0;
+  opacity: 0.8;
+}
+
+
+/* =========================================================
+   SECTION INTRO
+   ========================================================= */
+
+.section-intro {
+  max-width: 750px;
+  margin-bottom: 40px;
+  font-size: 1.08rem;
+  line-height: 1.75;
+  opacity: 0.85;
+}
+
+
+/* =========================================================
+   FEATURED PROJECT / FEATURED ARTICLE
+   ========================================================= */
+
+.featured-card {
+  margin: 35px 0 55px;
+  padding: 35px;
+
+  border-radius: 16px;
+  border: 1px solid rgba(65, 105, 225, 0.3);
+
+  background:
+    linear-gradient(
+      135deg,
+      rgba(65, 105, 225, 0.08),
+      rgba(65, 105, 225, 0.02)
+    );
+}
+
+.featured-card h2 {
+  margin-top: 0;
+}
+
+.featured-card p {
+  max-width: 750px;
+}
+
+
+/* =========================================================
+   QUOTES
+   ========================================================= */
+
+.page__content blockquote {
+  margin: 2em 0;
+  padding: 18px 25px;
+
+  border-left: 4px solid #4169e1;
+
+  font-style: normal;
+  opacity: 0.9;
+}
+
+
+/* =========================================================
+   CODE
+   ========================================================= */
+
+.page__content code {
+  border-radius: 4px;
+}
+
+.page__content pre {
+  border-radius: 10px;
+}
+
+
+/* =========================================================
+   TABLES
+   ========================================================= */
+
+.page__content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 25px 0;
+}
+
+.page__content th {
+  font-weight: 700;
+}
+
+
+/* =========================================================
+   IMAGES
+   ========================================================= */
+
+.page__content img {
+  border-radius: 8px;
+}
+
+.article-image {
+  display: block;
+  width: 100%;
+  max-width: 800px;
+
+  margin: 30px auto;
+
+  border-radius: 12px;
+}
+
+
+/* =========================================================
+   "COMING SOON" LABEL
+   ========================================================= */
+
+.coming-soon {
+  display: inline-block;
+
+  padding: 3px 9px;
+  margin-left: 6px;
+
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+
+  border-radius: 20px;
+
+  background: rgba(65, 105, 225, 0.1);
+  color: #4169e1;
+}
+
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.page__footer {
+  margin-top: 4em;
+}
+
+
+/* =========================================================
+   DARK SKIN COMPATIBILITY
+   ========================================================= */
+
+[data-theme="dark"] .topic-card,
+[data-theme="dark"] .project-card,
+[data-theme="dark"] .article-card {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+
+/* =========================================================
+   TABLET
+   ========================================================= */
+
+@media (max-width: 900px) {
+
+  .prem-hero h1 {
+    font-size: 3rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.15rem;
+  }
+
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+  .prem-hero {
+    padding: 40px 10px 50px;
+  }
+
+  .prem-hero h1 {
+    font-size: 2.5rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.05rem;
+  }
+
+  .topic-grid,
+  .project-grid,
+  .article-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .topic-card,
+  .project-card {
+    padding: 22px;
+  }
+
+  .learning-box {
+    padding: 20px;
+  }
+
+  .featured-card {
+    padding: 25px;
+  }
+
+  .hero-primary,
+  .hero-secondary {
+    display: block;
+    width: 100%;
+    max-width: 280px;
+
+    margin: 10px auto;
+  }
+
+}
+
+
+/* =========================================================
+   SMALL PHONES
+   ========================================================= */
+
+@media (max-width: 420px) {
+
+  .prem-hero h1 {
+    font-size: 2.15rem;
+  }
+
+  .topic-card h2 {
+    font-size: 1.3rem;
+  }
+
+}
