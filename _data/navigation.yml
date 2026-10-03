@@ -16,3 +16,6 @@ main:
     
   - title: "Books"
     url: /books/
+
+  - title: "About"
+    url: /about/
