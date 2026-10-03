@@ -10,17 +10,26 @@ Projects are where I apply the ideas I'm learning in physics, mathematics, and c
 <div class="project-grid">
 
 <div class="project-card">
+
+<p class="section-intro">
+These are some of the projects, presentations, and experiments I've created while exploring physics, mathematics, and computer science.
+</p>
+
+<div class="featured-card">
+
 <h2>⚛️ Quantum Electrodynamics</h2>
 
 <p>
-A presentation exploring quantum electrodynamics and how particles interact through electromagnetic forces.
+Quantum electrodynamics, or QED, is the quantum theory describing how light and matter interact. I created this presentation while learning about photons, charged particles, electromagnetic interactions, and some of the ideas behind modern quantum physics.
 </p>
 
-<a class="project-button" href="#">View Project →</a>
+<div class="presentation-wrapper">
+
+[View →](https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view)
+
 </div>
 
-<div class="project-card">
-<h2>💻 Binary Search</h2>
+</div><h2>💻 Binary Search</h2>
 
 <p>
 An exploration of how binary search can find information efficiently by repeatedly dividing a search space in half.
