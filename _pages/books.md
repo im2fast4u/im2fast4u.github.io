@@ -9,7 +9,7 @@ Infinite Powers, written by Steven Strogatz, captures the fundamental language o
 ## Six Easy Pieces
 Richard Feynman presents everything about physics in his famous *Lectures on Physics*. Feynman's lectures are the answer to unifying the universe, from how we smell the fragrance of flowers to how Einsein's Theory of Relativity redefines gravity. It gives us a whole new understanding of physics and quantum behavior in the microscopic world. Feynman's Quantum Electrodynamics theory explains the interaction of electrons and how they emit photons. It gives us a representation of everything in our modern world.
 
-## Harry Potter Series
+<!-- ## Harry Potter Series
 J.K. Rowling presents wonderful stories of magic in the book series *Harry Potter*.
 
 ### The Sorcerer's Stone
