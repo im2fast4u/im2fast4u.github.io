@@ -25,7 +25,8 @@ Quantum electrodynamics, or QED, is the quantum theory describing how light and 
 
 <div class="presentation-wrapper">
 
-[View →](https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view)
+<!--[View →](https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view)-->
+<a class="project-button" href="https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view">View →</a>
 
 </div>
 
