@@ -3,8 +3,6 @@ layout: splash
 author_profile: false
 ---
 
-[Presentation: Quantum Electrodynamics](https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view)
-
 <div class="prem-hero">
 
 <h1>Hi, I'm Prem.</h1>
