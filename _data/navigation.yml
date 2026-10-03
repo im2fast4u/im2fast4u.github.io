@@ -1,11 +1,18 @@
 main:
-  - title: "Shop"
-    url: /shop/
+#  - title: "Shop"
+#    url: /shop/
+
   - title: "Physics"
     url: /physics/
+    
   - title: "Math"
     url: /math/ 
+    
   - title: "Computer Science"
     url: /computer-science/
+
+  - title: "Projects"
+    url: /projects/
+    
   - title: "Books"
     url: /books/
