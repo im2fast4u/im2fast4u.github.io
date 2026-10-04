@@ -25,13 +25,28 @@ Quantum electrodynamics, or QED, is the quantum theory describing how light and 
 
 <div class="presentation-wrapper">
 
-<!--[View →](https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view)-->
-
 <a class="project-button" href="https://www.canva.com/design/DAHEY8HKltw/Z41o70-AAXUgHwI8U9jIvA/view">View →</a>
 
 </div>
 
-</div><h2>💻 Binary Search</h2>
+<div class="project-card">
+
+<h2>🎨 BPA Virtual Branding Team</h2>
+
+<p>
+For BPA's Virtual Branding Team event, my team created a brand campaign using video, digital design, and social media content. We used tools including Canva and CapCut to develop the project's visual identity and promotional content.
+</p>
+
+<a href="https://www.premmehta.com/projects"
+   class="project-button"
+   target="_blank"
+   rel="noopener noreferrer">
+Explore →
+</a>
+
+</div>
+
+<!-- </div><h2>💻 Binary Search</h2>
 
 <p>
 An exploration of how binary search can find information efficiently by repeatedly dividing a search space in half.
@@ -48,6 +63,6 @@ Notes and explanations about derivatives, integrals, and how mathematics describ
 </p>
 
 <a class="project-button" href="/math/">Explore →</a>
-</div>
+</div> -->
 
 </div>
