@@ -13,7 +13,7 @@ I'm a student exploring physics, mathematics, computer science, and the ideas th
 
 <div class="hero-buttons">
 
-<a href="/physics/" class="hero-primary">
+<a href="/projects/" class="hero-primary">
 Explore My Work
 </a>
 
