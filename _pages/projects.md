@@ -17,6 +17,6 @@ author_profile: false
 <div class="project-card">
 <h2>🎨 BPA Virtual Branding Team</h2>
 <p>For BPA's Virtual Branding Team event, my team is currently creating a brand campaign using video, digital design, and social media content. We are using tools including Canva and CapCut to develop the project's visual identity and promotional content.</p>
-<a class="project-button" href="" target="_blank" rel="noopener noreferrer">Explore →</a>
+<a class="project-button" href="coming-soon" target="_blank" rel="noopener noreferrer">Explore →</a>
 </div>
 </div>
